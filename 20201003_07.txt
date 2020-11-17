@@ -1,0 +1,1393 @@
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ FrameworkConfig ] setAppPath appPath == /storage/emulated/0/MiVideoGlobal
+2020-10-03 07:56:27	DEBUG	DeviceUtils	[ init ] ==========Device Info==========
+2020-10-03 07:56:27	DEBUG	DeviceUtils	[ androidSDK ] 29
+2020-10-03 07:56:27	DEBUG	DeviceUtils	[ phoneBoard ] merlin
+2020-10-03 07:56:27	DEBUG	DeviceUtils	[ phoneBrand ] Redmi
+2020-10-03 07:56:27	DEBUG	DeviceUtils	[ phoneCPU_ABT ] armeabi-v7a
+2020-10-03 07:56:27	DEBUG	DeviceUtils	[ phoneDevice ] merlin
+2020-10-03 07:56:27	DEBUG	DeviceUtils	[ phoneDisplay ] AL2522-Merlin-V101-Q-0608
+2020-10-03 07:56:27	DEBUG	DeviceUtils	[ phoneFingerprint ] Redmi/merlin_id/merlin:10/QP1A.190711.020/V11.0.2.0.QJOIDXM:user/release-keys
+2020-10-03 07:56:27	DEBUG	DeviceUtils	[ phoneHost ] c5-miui-ota-bd052.bj
+2020-10-03 07:56:27	DEBUG	DeviceUtils	[ phoneID ] QP1A.190711.020
+2020-10-03 07:56:27	DEBUG	DeviceUtils	[ phoneManufacturer ] Xiaomi
+2020-10-03 07:56:27	DEBUG	DeviceUtils	[ phoneModel ] M2003J15SC
+2020-10-03 07:56:27	DEBUG	DeviceUtils	[ phoneVersion ] 10
+2020-10-03 07:56:27	DEBUG	DeviceUtils	[ phoneProduct ] merlin_id
+2020-10-03 07:56:27	DEBUG	DeviceUtils	[ phoneTags ] release-keys
+2020-10-03 07:56:27	DEBUG	DeviceUtils	[ phoneTime ] Mon Jun 08 21:44:35 GMT+07:00 2020
+2020-10-03 07:56:27	DEBUG	DeviceUtils	[ phoneType ] user
+2020-10-03 07:56:27	DEBUG	DeviceUtils	[ phoneUser ] builder
+2020-10-03 07:56:27	DEBUG	DeviceUtils	[ screenDensity ] 2.75
+2020-10-03 07:56:27	DEBUG	DeviceUtils	[ screenScaledDensity ] 2.75
+2020-10-03 07:56:27	DEBUG	DeviceUtils	[ screenWidthPixels ] 1080
+2020-10-03 07:56:27	DEBUG	DeviceUtils	[ wcreenHeightPixels ] 2110
+2020-10-03 07:56:27	DEBUG	DeviceUtils	[ screenStatusBarHeight ] 100
+2020-10-03 07:56:27	DEBUG	DeviceUtils	[ init ] ===============================
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ MiDevUtils3.0 ] init
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ AppConfig ] initAppChannel success channel = miui
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ AppConfig ] initAppChannel success platform = miui
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ AppConfig ] initAppChannel checkAppVersion = 2020042930
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ VideoMediationConfig ] init
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ VideoMediationConfig ] init end  ENABLE_LOG = trueIS_LOCAL_CONFIG = false ; Staging = false ;  is test = false
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[  ]  GreenDaoDbManager  mContext com.miui.video.service.application.GlobalApplication@69f8444
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ PermissionUtils ] isAllPermissionGrant is called; context = com.miui.video.service.application.GlobalApplication@69f8444
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission is called permission = android.permission.WRITE_EXTERNAL_STORAGE; Context = com.miui.video.service.application.GlobalApplication@69f8444
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission android.permission.WRITE_EXTERNAL_STORAGE ret = true
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ launch time ] initFCMToken time=1601686587873
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ PermissionUtils ] isAllPermissionGrant is called; context = com.miui.video.service.application.GlobalApplication@69f8444
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission is called permission = android.permission.WRITE_EXTERNAL_STORAGE; Context = com.miui.video.service.application.GlobalApplication@69f8444
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission android.permission.WRITE_EXTERNAL_STORAGE ret = true
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ launch time ] initFCMToken time=1601686587874
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ launch time ] initFCMToken time=1601686587886
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ PermissionUtils ] isAllPermissionGrant is called; context = com.miui.video.service.application.GlobalApplication@69f8444
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission is called permission = android.permission.WRITE_EXTERNAL_STORAGE; Context = com.miui.video.service.application.GlobalApplication@69f8444
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission android.permission.WRITE_EXTERNAL_STORAGE ret = true
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ PermissionUtils ] isAllPermissionGrant is called; context = com.miui.video.service.application.GlobalApplication@69f8444
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission is called permission = android.permission.WRITE_EXTERNAL_STORAGE; Context = com.miui.video.service.application.GlobalApplication@69f8444
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission android.permission.WRITE_EXTERNAL_STORAGE ret = true
+2020-10-03 07:56:27	ERROR	com.miui.videoplayer	[ PushMessageReceiver ] setAlias   deviceId ==  8635b58e-e970-4fbd-bb0b-9212bf51cf5e
+
+2020-10-03 07:56:27	ERROR	com.miui.videoplayer	[ PushMessageReceiver ] onCommandResult register_success setIMEIAlias  mRegId ==  QWZT2lH1i8I0mJrCYXAzIO4JVNIrNI3y7DGn1uILE1q+uUed185voVAnVngSXzZ2
+
+2020-10-03 07:56:27	ERROR	com.miui.videoplayer	[ PushMessageReceiver ] Already subscribed   topic ==  Region_ID
+
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] delayTime = 12
+lastTimeStamp = 1601622505541, ignoreSyncSettingTimes = 6
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] getCloudSetting continue
+2020-10-03 07:56:27	ERROR	com.miui.videoplayer	[ PushMessageReceiver ] Already subscribed   topic ==  Language_in_ID
+
+2020-10-03 07:56:27	WARN	com.miui.videoplayer	[  ] initGalleryModule
+
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ LocalServerHelper ] bindSer
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ LocalServerHelper ] wait
+2020-10-03 07:56:27	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:27	WARN	com.miui.videoplayer	[  ] initGalleryModule
+
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"english","st":"","_page":"","_miui":"V11","module":"account","_ver":"2020042900(MiVideo-GROM)","_anoyid":"8635b58e-e970-4fbd-bb0b-9212bf51cf5e","_region":"ID","_res":"hd1080","_device":"merlin","_miuiver":"V11.0.2.0.QJOIDXM","ref":"com.miui.videoplayer","_appver":"2020042930","_nettype":"1","_andver":"29","_model":"M2003J15SC","event":"auto_logout","_plyver":"20190604","_ismiui":"1","append":"{\"result\":\"success\"}","_locale":"in_ID","_ts":"1601686587"}
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] IS_ONLINE
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] is preview = false
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken RxCachedThreadScheduler-1
+2020-10-03 07:56:27	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ FrameworkApplication ] onActivityCreated com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@4de4c4acreatedCount = 1 listener.size = 1
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Created com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@4de4c4a
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Process Startcom.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@4de4c4a
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:27	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken RxCachedThreadScheduler-1
+2020-10-03 07:56:27	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ FrameworkConfig ] setAppPath appPath == /storage/emulated/0/MiVideoGlobal
+2020-10-03 07:56:28	DEBUG	DeviceUtils	[ init ] ==========Device Info==========
+2020-10-03 07:56:28	DEBUG	DeviceUtils	[ androidSDK ] 29
+2020-10-03 07:56:28	DEBUG	DeviceUtils	[ phoneBoard ] merlin
+2020-10-03 07:56:28	DEBUG	DeviceUtils	[ phoneBrand ] Redmi
+2020-10-03 07:56:28	DEBUG	DeviceUtils	[ phoneCPU_ABT ] armeabi-v7a
+2020-10-03 07:56:28	DEBUG	DeviceUtils	[ phoneDevice ] merlin
+2020-10-03 07:56:28	DEBUG	DeviceUtils	[ phoneDisplay ] AL2522-Merlin-V101-Q-0608
+2020-10-03 07:56:28	DEBUG	DeviceUtils	[ phoneFingerprint ] Redmi/merlin_id/merlin:10/QP1A.190711.020/V11.0.2.0.QJOIDXM:user/release-keys
+2020-10-03 07:56:28	DEBUG	DeviceUtils	[ phoneHost ] c5-miui-ota-bd052.bj
+2020-10-03 07:56:28	DEBUG	DeviceUtils	[ phoneID ] QP1A.190711.020
+2020-10-03 07:56:28	DEBUG	DeviceUtils	[ phoneManufacturer ] Xiaomi
+2020-10-03 07:56:28	DEBUG	DeviceUtils	[ phoneModel ] M2003J15SC
+2020-10-03 07:56:28	DEBUG	DeviceUtils	[ phoneVersion ] 10
+2020-10-03 07:56:28	DEBUG	DeviceUtils	[ phoneProduct ] merlin_id
+2020-10-03 07:56:28	DEBUG	DeviceUtils	[ phoneTags ] release-keys
+2020-10-03 07:56:28	DEBUG	DeviceUtils	[ phoneTime ] Mon Jun 08 21:44:35 GMT+07:00 2020
+2020-10-03 07:56:28	DEBUG	DeviceUtils	[ phoneType ] user
+2020-10-03 07:56:28	DEBUG	DeviceUtils	[ phoneUser ] builder
+2020-10-03 07:56:28	DEBUG	DeviceUtils	[ screenDensity ] 2.75
+2020-10-03 07:56:28	DEBUG	DeviceUtils	[ screenScaledDensity ] 2.75
+2020-10-03 07:56:28	DEBUG	DeviceUtils	[ screenWidthPixels ] 1080
+2020-10-03 07:56:28	DEBUG	DeviceUtils	[ wcreenHeightPixels ] 2110
+2020-10-03 07:56:28	DEBUG	DeviceUtils	[ screenStatusBarHeight ] 100
+2020-10-03 07:56:28	DEBUG	DeviceUtils	[ init ] ===============================
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ MiDevUtils3.0 ] init
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ AppConfig ] initAppChannel success channel = miui
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ AppConfig ] initAppChannel success platform = miui
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ AppConfig ] initAppChannel checkAppVersion = 2020042930
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ VideoMediationConfig ] init
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ VideoMediationConfig ] init end  ENABLE_LOG = trueIS_LOCAL_CONFIG = false ; Staging = false ;  is test = false
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[  ]  GreenDaoDbManager  mContext com.miui.video.service.application.GlobalApplication@4a326bd
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ PermissionUtils ] isAllPermissionGrant is called; context = com.miui.video.service.application.GlobalApplication@4a326bd
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission is called permission = android.permission.WRITE_EXTERNAL_STORAGE; Context = com.miui.video.service.application.GlobalApplication@4a326bd
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission android.permission.WRITE_EXTERNAL_STORAGE ret = true
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ launch time ] initFCMToken time=1601686588166
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ PermissionUtils ] isAllPermissionGrant is called; context = com.miui.video.service.application.GlobalApplication@4a326bd
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission is called permission = android.permission.WRITE_EXTERNAL_STORAGE; Context = com.miui.video.service.application.GlobalApplication@4a326bd
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission android.permission.WRITE_EXTERNAL_STORAGE ret = true
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ launch time ] initFCMToken time=1601686588167
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ launch time ] initFCMToken time=1601686588181
+2020-10-03 07:56:28	ERROR	com.miui.videoplayer	[  ] subscribeTopic fail
+
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ PermissionUtils ] isAllPermissionGrant is called; context = com.miui.video.service.application.GlobalApplication@4a326bd
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission is called permission = android.permission.WRITE_EXTERNAL_STORAGE; Context = com.miui.video.service.application.GlobalApplication@4a326bd
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission android.permission.WRITE_EXTERNAL_STORAGE ret = true
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ PermissionUtils ] isAllPermissionGrant is called; context = com.miui.video.service.application.GlobalApplication@4a326bd
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission is called permission = android.permission.WRITE_EXTERNAL_STORAGE; Context = com.miui.video.service.application.GlobalApplication@4a326bd
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ PermissionUtils ] checkSelfPermission android.permission.WRITE_EXTERNAL_STORAGE ret = true
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] delayTime = 12
+lastTimeStamp = 1601622505541, ignoreSyncSettingTimes = 6
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] getCloudSetting continue
+2020-10-03 07:56:28	WARN	com.miui.videoplayer	[  ] initGalleryModule
+
+2020-10-03 07:56:28	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:28	WARN	com.miui.videoplayer	[  ] initGalleryModule
+
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ LocalServService ] onBind
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"english","st":"","_page":"","_miui":"V11","module":"account","_ver":"2020042900(MiVideo-GROM)","_anoyid":"8635b58e-e970-4fbd-bb0b-9212bf51cf5e","_region":"ID","_res":"hd1080","_device":"merlin","_miuiver":"V11.0.2.0.QJOIDXM","ref":"com.miui.videoplayer","_appver":"2020042930","_nettype":"1","_andver":"29","_model":"M2003J15SC","event":"auto_logout","_plyver":"20190604","_ismiui":"1","append":"{\"result\":\"success\"}","_locale":"in_ID","_ts":"1601686588"}
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] IS_ONLINE
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] is preview = false
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken RxCachedThreadScheduler-1
+2020-10-03 07:56:28	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ ServerInitor ] start Server success: 32532
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ videocache:VideoCacheManager ] init
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken RxCachedThreadScheduler-1
+2020-10-03 07:56:28	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] --->>> GET   https://id.video.intl.xiaomi.com/api2/cloudControl/config?version=v1&_sdevid=8635b58e-e970-4fbd-bb0b-9212bf51cf5e&_miui=V11&_miuiver=V11.0.2.0.QJOIDXM&_andver=29&_model=M2003J15SC&_device=merlin&_locale=in_ID&_region=ID&_appver=2020042930&_ismiui=1&_anoyid=8635b58e-e970-4fbd-bb0b-9212bf51cf5e&_language=english&ref=com.miui.videoplayer&fcmToken=cWh3Z_QRabA%3AAPA91bGWTWIANWLDNa9bXyg5LfsjW4nKlmJ_iQ7WM4HN5pCons9blxT7eKcBGTJU9ZkO-rxoLKfu-OzP2DBI2vnVN0ya4kFWxzC7fywztCQwRkBvS9iVtHtGADZpaUJsxcLeefG-Z5V4&_gaid=7c39238f-a93e-4e5f-bf24-e4db683173b7&_personalized=true&_res=hd1080&_nonce=-57073496&_ts=1601686588&_ver=2020042900%28MiVideo-GROM%29&_devtype=1&_version=stable&_nettype=1&_uspace=0&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db&st=  http/1.1  header_params--->>>st : 
+Request Body is null
+
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ HttpUrlSource ] Open connection  to http://127.0.0.1:39461/ping
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ HttpProxyByIdCacheServer ] Accept new socket Socket[address=/127.0.0.1,port=46104,localPort=39461]
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ GetRequest ] request : 
+GET /ping HTTP/1.1
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 10; M2003J15SC MIUI/V11.0.2.0.QJOIDXM)
+Host: 127.0.0.1:39461
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+2020-10-03 07:56:28	INFO	com.miui.videoplayer	[ HttpProxyByIdCacheServer ] Request to cache proxy:GetRequest{rangeOffset=0, partial=false, uri='ping'}
+2020-10-03 07:56:28	INFO	com.miui.videoplayer	[ Pinger ] Ping response: `ping ok`, pinged? true
+2020-10-03 07:56:28	INFO	com.miui.videoplayer	[ HttpProxyByIdCacheServer ] Opened connections: 0
+2020-10-03 07:56:28	INFO	com.miui.videoplayer	[ HttpProxyByIdCacheServer ] Proxy cache server started. Is it alive? true
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ ThreadPoolManager ] initThreadPool index　0
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ videocache:VideoCacheManager ] clearCache
+2020-10-03 07:56:28	ERROR	com.miui.videoplayer	[ GlobalApplication ] RxJavaErrorHandler:The exception was not handled due to missing onError handler in the subscribe() method call. Further reading: https://github.com/ReactiveX/RxJava/wiki/Error-Handling | java.lang.IllegalStateException: Default FirebaseApp is not initialized in this process com.miui.videoplayer:localservservice. Make sure to call FirebaseApp.initializeApp(Context) first.
+
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] --->>> GET   https://id.video.intl.xiaomi.com/api2/cloudControl/config?version=v1&_sdevid=8635b58e-e970-4fbd-bb0b-9212bf51cf5e&_miui=V11&_miuiver=V11.0.2.0.QJOIDXM&_andver=29&_model=M2003J15SC&_device=merlin&_locale=in_ID&_region=ID&_appver=2020042930&_ismiui=1&_anoyid=8635b58e-e970-4fbd-bb0b-9212bf51cf5e&_language=english&ref=com.miui.videoplayer&fcmToken=cWh3Z_QRabA%3AAPA91bGWTWIANWLDNa9bXyg5LfsjW4nKlmJ_iQ7WM4HN5pCons9blxT7eKcBGTJU9ZkO-rxoLKfu-OzP2DBI2vnVN0ya4kFWxzC7fywztCQwRkBvS9iVtHtGADZpaUJsxcLeefG-Z5V4&_gaid=7c39238f-a93e-4e5f-bf24-e4db683173b7&_personalized=true&_res=hd1080&_nonce=-142872501&_ts=1601686587&_ver=2020042900%28MiVideo-GROM%29&_devtype=1&_version=stable&_nettype=1&_uspace=0&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db&st=  http/1.1  header_params--->>>st : 
+Request Body is null
+
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackDev : map = {"net_event_flag":"https://id.video.intl.xiaomi.com/api2/cloudControl/config","net_event_result_type":"0","net_event_requeststarttime":"36","net_event_statuscode":"1","net_event_retrycount":"0","event":"event_type_net","net_event_responsecode":"200"}
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] <<<--- Response base info : 200  https://id.video.intl.xiaomi.com/api2/cloudControl/config?version=v1&_sdevid=8635b58e-e970-4fbd-bb0b-9212bf51cf5e&_miui=V11&_miuiver=V11.0.2.0.QJOIDXM&_andver=29&_model=M2003J15SC&_device=merlin&_locale=in_ID&_region=ID&_appver=2020042930&_ismiui=1&_anoyid=8635b58e-e970-4fbd-bb0b-9212bf51cf5e&_language=english&ref=com.miui.videoplayer&fcmToken=cWh3Z_QRabA%3AAPA91bGWTWIANWLDNa9bXyg5LfsjW4nKlmJ_iQ7WM4HN5pCons9blxT7eKcBGTJU9ZkO-rxoLKfu-OzP2DBI2vnVN0ya4kFWxzC7fywztCQwRkBvS9iVtHtGADZpaUJsxcLeefG-Z5V4&_gaid=7c39238f-a93e-4e5f-bf24-e4db683173b7&_personalized=true&_res=hd1080&_nonce=-142872501&_ts=1601686587&_ver=2020042900%28MiVideo-GROM%29&_devtype=1&_version=stable&_nettype=1&_uspace=0&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db&st= unknown bytes size
+<<<--- {"result":1,"msg":"OK","sys_time":1601685792342,"data":{"notification_recall_online_video_time_condition":172800,"local_push_notification_period_high":180,"local_push_notification_period_high_condition":4320,"local_video_notification_checkstatus_dead_period":15,"online_video_timeout_period":60,"local_push_notification_period_android_27":360,"recommend_internal_interval":1000,"notification_recall_dialog_time_condition":259200,"local_push_allow_upper":8,"app_jump_white":"https://video.in.intl.xiaomi.com,http://video.in.intl.xiaomi.com,https://cdn.awsind0-fusion.fds.api.mi-img.com/,http://cdn.awsind0-fusion.fds.api.mi-img.com/,http://preview.in.intl.video.xiaomi.com,http://gmivideo-stag.in.duokanbox.com","local_video_notification_lock_screen_enable":"true","tab_home":"TAB_TRENDING","local_video_notification_stick_period":60,"recommend_external_interval":1000,"local_push_notification_period":120,"comment_word_limit":500,"local_push_fetch_period":120,"local_push_enable":"true","network_weak_speed":1000,"precise_push_frequency_range":1,"precise_push_time_range":14400,"local_push_disable_model":"phoenix phoenixin","cloud_video_panel_disable":0,"recommend_internal_non_click_time":100,"codec_level":3,"filescan_path_blacklist":"%/.%,%CACHE%/%,%/ANDROID/DATA/%,%/WhatsApp/Media/WhatsApp Video/Private%,%/WhatsApp/Media/WhatsApp Video/Sent%,%/WhatsApp/Media/WhatsApp Animated Gifs/Private%,%/WhatsApp/Media/WhatsApp Animated Gifs/Sent%,%/FileExplorer/Statuses%,%/WhatsApp/Media/WhatsApp Animated Gifs%,%/WhatsApp Business/Media/WhatsApp Business Video/Sent%,%/GBWhatsApp/Media/GBWhatsApp Video/Sent%,%/WhatsApp Business/Media/WhatsApp Video/Sent%","recommend_external_day_time":100,"download_video_enable":"true","network_weak_ping_stop_period":30000,"local_push_notification_period_middle":240,"video_pip_enable":"true","network_weak_ping_period":5000,"video_auto_pip_play":"true","local_push_notification_period_low":360,"local_video_scan_path_blacklist":"%/DCIM/ScreenRecorder/%,%/DCIM/Camera/%","codec_disable_video_name":"","network_weak_ping_url":"https://www.google.com/favicon.ico","local_video_notification_checkstatus_live_period":5,"tab_moment":"TAB_MOMENT","local_push_lock_screen_enable":"false","local_video_notification_allow_lower":22,"local_push_update_period":30,"encrypt":"true","recommend_external_non_click_time":100,"video_detail_botton_backhome_version":1,"recommend_internal_day_time":100,"cooperation_is_show":1,"notification_recall_online_video_count_condition":3,"codec_disable_video_encode":"ac3,ac4,eac3,truehd","local_video_notification_allow_upper":8,"local_video_notification_disable_model":"umi","fcm_push_shield_advanced_model":"MI Note 2,MIX,MIX 2,MIX 2S,MI MIX 2S,MIX 2S ART,MI MAX 3,Redmi K20,Redmi K20 Pro,POCO F1,POCO X2,POCO F2 Pro,POCO M2 Pro,MIX3,Redmi K20,Redmi K30 Pro,Mi 10,Redmi K30 Pro Zoom Edition,Redmi K30,K30,K20","codec_supported_file_format":"WEBM,3G2,3GP,3GP2,3GPP,3GPP2,AVI,AVB,ASF,ASX,AVS,BOX,DIVX,FLV,F4V,M2V,M4V,MKV,MOV,MP4,MPG,MPEG,NDIVX,RA,RM,RAM,RMVB,TS,V8,VOB,WMV,XVID","notification_recall_dialog_count_condition":3,"local_push_notification_period_middle_condition":10080,"cdn_play_cp_list":"cms,httimes,onmobile","local_video_notification_enable":"false","local_push_allow_lower":22,"tab_index":"TAB_TRENDING"}}
+
+
+
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ FrameworkApplication ] onActivityStarted com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@4de4c4astartedCount = 1
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ FrameworkApplication ] App On Foreground : listener.size = 1
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on App Foregroundcom.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@4de4c4a
+2020-10-03 07:56:28	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Resumed com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@4de4c4a
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] onAccounts Update : size = 0
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] getCloudSetting onSuccess
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] ModelBase com.miui.video.base.common.net.model.ModelBase@190171
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] recommendInternalDayTime 100
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] recommendInternalNonClickTime 100
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] recommendInternalInterval 1000
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] recommendExternalDayTime 100
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] recommendExternalNonClickTime 100
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] recommendExternalInterval 1000
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] codecSupportedFileFormat WEBM,3G2,3GP,3GP2,3GPP,3GPP2,AVI,AVB,ASF,ASX,AVS,BOX,DIVX,FLV,F4V,M2V,M4V,MKV,MOV,MP4,MPG,MPEG,NDIVX,RA,RM,RAM,RMVB,TS,V8,VOB,WMV,XVID
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] codecDisableVideoEncode ac3,ac4,eac3,truehd
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] codecDisableVideoName 
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] codecLevel 3
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] filescanPathBlacklist %/.%,%CACHE%/%,%/ANDROID/DATA/%,%/WhatsApp/Media/WhatsApp Video/Private%,%/WhatsApp/Media/WhatsApp Video/Sent%,%/WhatsApp/Media/WhatsApp Animated Gifs/Private%,%/WhatsApp/Media/WhatsApp Animated Gifs/Sent%,%/FileExplorer/Statuses%,%/WhatsApp/Media/WhatsApp Animated Gifs%,%/WhatsApp Business/Media/WhatsApp Business Video/Sent%,%/GBWhatsApp/Media/GBWhatsApp Video/Sent%,%/WhatsApp Business/Media/WhatsApp Video/Sent%
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] filescanScanLevel 24
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ SyncSettingHelper ] appJumpWhite https://video.in.intl.xiaomi.com,http://video.in.intl.xiaomi.com,https://cdn.awsind0-fusion.fds.api.mi-img.com/,http://cdn.awsind0-fusion.fds.api.mi-img.com/,http://preview.in.intl.video.xiaomi.com,http://gmivideo-stag.in.duokanbox.com
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ LocalServerHelper ] onServiceConnected ComponentName=ComponentInfo{com.miui.videoplayer/com.miui.videoplayer.biz.service.preload.core.LocalServService}
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ ThreadPoolManager ] initThreadPool index　0
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Paused com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@4de4c4a
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ FrameworkApplication ] onActivityCreated com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@262a24fcreatedCount = 2 listener.size = 1
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Created com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@262a24f
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ StatisticsUtils2 ] reportEventStatistics gallery_play_start --- {location=0}
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ StatisticsUtils2 ] runStatistics : eventKey =  gallery_play_start params = {location=0}
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ StatisticsUtils2 ] reportEventStatistics gallery_play_start --- {location=0}
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken StatisticsUtils2
+2020-10-03 07:56:29	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"english","st":"","_page":"FrameLocalPlayActivity","_miui":"V11","_ver":"2020042900(MiVideo-GROM)","_anoyid":"8635b58e-e970-4fbd-bb0b-9212bf51cf5e","_region":"ID","_res":"hd1080","_device":"merlin","_miuiver":"V11.0.2.0.QJOIDXM","ref":"com.miui.videoplayer","_appver":"2020042930","_nettype":"1","_andver":"29","_model":"M2003J15SC","event":"gallery_play_start","_plyver":"20190604","_ismiui":"1","append":"{\"location\":\"0\"}","_locale":"in_ID","_ts":"1601686589"}
+2020-10-03 07:56:29	ERROR	com.miui.videoplayer	[ PushMessageReceiver ] onCommandResult setTopic_success   mTopic ==  Region_ID
+
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ StatisticsUtils2 ] runStatistics : eventKey =  gallery_play_start params = {location=0}
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken StatisticsUtils2
+2020-10-03 07:56:29	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"english","st":"","_page":"FrameLocalPlayActivity","_miui":"V11","_ver":"2020042900(MiVideo-GROM)","_anoyid":"8635b58e-e970-4fbd-bb0b-9212bf51cf5e","_region":"ID","_res":"hd1080","_device":"merlin","_miuiver":"V11.0.2.0.QJOIDXM","ref":"com.miui.videoplayer","_appver":"2020042930","_nettype":"1","_andver":"29","_model":"M2003J15SC","event":"gallery_play_start","_plyver":"20190604","_ismiui":"1","append":"{\"location\":\"0\"}","_locale":"in_ID","_ts":"1601686589"}
+2020-10-03 07:56:29	ERROR	com.miui.videoplayer	[ PushMessageReceiver ] onCommandResult setTopic_success   mTopic ==  Language_in_ID
+
+2020-10-03 07:56:29	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Resumed com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@4de4c4a
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] 推荐视频本地开关 true
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] isFromExternal = true
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] dailyShowTimes = 0
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlShowTimes = 100
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] dailyClickTimes = 0
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlNonClickTimes = 100
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] currentTime = 1601686590278
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] lastShowTime = 1601563108001
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlShowTimeInterval = 1000
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] 推荐视频本地开关 true
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] isFromExternal = true
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] dailyShowTimes = 0
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlShowTimes = 100
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] dailyClickTimes = 0
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlNonClickTimes = 100
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] currentTime = 1601686590280
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] lastShowTime = 1601686590278
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlShowTimeInterval = 1000
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] 推荐视频本地开关 true
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] isFromExternal = true
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] dailyShowTimes = 0
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlShowTimes = 100
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] dailyClickTimes = 0
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlNonClickTimes = 100
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] currentTime = 1601686590398
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] lastShowTime = 1601686590278
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlShowTimeInterval = 1000
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] 推荐视频本地开关 true
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] isFromExternal = true
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] dailyShowTimes = 0
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlShowTimes = 100
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] dailyClickTimes = 0
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlNonClickTimes = 100
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] currentTime = 1601686590400
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] lastShowTime = 1601686590278
+2020-10-03 07:56:30	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlShowTimeInterval = 1000
+2020-10-03 07:56:31	DEBUG	com.miui.videoplayer	[ RecommendDataUtils ] lastType : 
+2020-10-03 07:56:31	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:31	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken RxCachedThreadScheduler-2
+2020-10-03 07:56:31	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:31	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:31	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:31	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:31	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:31	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:31	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken RxCachedThreadScheduler-2
+2020-10-03 07:56:31	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:31	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] --->>> GET   https://id.video.intl.xiaomi.com/api2/local/diversion?version=v2&is_from_gallery=true&videoCategory=&_sdevid=8635b58e-e970-4fbd-bb0b-9212bf51cf5e&_miui=V11&_miuiver=V11.0.2.0.QJOIDXM&_andver=29&_model=M2003J15SC&_device=merlin&_locale=in_ID&_region=ID&_appver=2020042930&_ismiui=1&_anoyid=8635b58e-e970-4fbd-bb0b-9212bf51cf5e&_language=english&ref=com.miui.videoplayer&fcmToken=cWh3Z_QRabA%3AAPA91bGWTWIANWLDNa9bXyg5LfsjW4nKlmJ_iQ7WM4HN5pCons9blxT7eKcBGTJU9ZkO-rxoLKfu-OzP2DBI2vnVN0ya4kFWxzC7fywztCQwRkBvS9iVtHtGADZpaUJsxcLeefG-Z5V4&_gaid=7c39238f-a93e-4e5f-bf24-e4db683173b7&_personalized=true&_res=hd1080&_nonce=338833122&_ts=1601686591&_ver=2020042900%28MiVideo-GROM%29&_devtype=1&_version=stable&_nettype=1&_uspace=0&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db&st=  http/1.1  header_params--->>>st : 
+Request Body is null
+
+2020-10-03 07:56:31	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackDev : map = {"net_event_flag":"https://id.video.intl.xiaomi.com/api2/local/diversion","net_event_result_type":"0","net_event_requeststarttime":"30","net_event_statuscode":"1","net_event_retrycount":"0","event":"event_type_net","net_event_responsecode":"200"}
+2020-10-03 07:56:31	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] <<<--- Response base info : 200  https://id.video.intl.xiaomi.com/api2/local/diversion?version=v2&is_from_gallery=true&videoCategory=&_sdevid=8635b58e-e970-4fbd-bb0b-9212bf51cf5e&_miui=V11&_miuiver=V11.0.2.0.QJOIDXM&_andver=29&_model=M2003J15SC&_device=merlin&_locale=in_ID&_region=ID&_appver=2020042930&_ismiui=1&_anoyid=8635b58e-e970-4fbd-bb0b-9212bf51cf5e&_language=english&ref=com.miui.videoplayer&fcmToken=cWh3Z_QRabA%3AAPA91bGWTWIANWLDNa9bXyg5LfsjW4nKlmJ_iQ7WM4HN5pCons9blxT7eKcBGTJU9ZkO-rxoLKfu-OzP2DBI2vnVN0ya4kFWxzC7fywztCQwRkBvS9iVtHtGADZpaUJsxcLeefG-Z5V4&_gaid=7c39238f-a93e-4e5f-bf24-e4db683173b7&_personalized=true&_res=hd1080&_nonce=338833122&_ts=1601686591&_ver=2020042900%28MiVideo-GROM%29&_devtype=1&_version=stable&_nettype=1&_uspace=0&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db&st= unknown bytes size
+<<<--- {"result":1,"msg":"OK","sys_time":1601686355114,"data":{"card_list":[{"row_list":[{"item_list":[{"title":"UPIN IPIN - PERANGI RASUAH (By COMMED)","language":"english","year":"2015","duration":1162,"target":"mv://YouTube?action=playVideo&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DXitCIV_7hdQ&detail_id=v1-ytb-166387833609788576&mode=mivideo&path=local&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&report={\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"166387833609788576\\\",\\\"playlist_id\\\":null,\\\"position\\\":1,\\\"exp\\\":\\\"v1\\\"}\"}&source=local_gallery&ref=LOCALRECOMM","cp":"ytb","position":0,"searchGenre":"Other","network":0,"click":false,"top":false,"item_id":"166387833609788576","item_type":"shortvideo","item_style":101,"source_item_id":"V-ytb-XitCIV_7hdQ","image_url":"https://i.ytimg.com/vi/XitCIV_7hdQ/maxresdefault.jpg","sub_title":"","author_id":51228654897995192,"target_report":["mv://LogMivideo?event=VIEW","mv://LogMivideo?event=CLICK"],"view_count":39307605,"view_count_text":"39M Views","view_count_transform":"39M","gmt_publish":1422453815000,"gmt_publish_text":"5 years ago","video_status":1,"video_category":"Kids","video_category_code":2016,"share":true,"channel_type":0},{"title":"VIDEO LUCU BIKIN NGAKAK WARGA +62 PART 14","language":"english","year":"2020","duration":609,"target":"mv://YouTube?action=playVideo&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DDuR_NvhB0UE&detail_id=v1-ytb-166388937252806565&mode=mivideo&path=local&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&report={\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"166388937252806565\\\",\\\"playlist_id\\\":null,\\\"position\\\":2,\\\"exp\\\":\\\"v1\\\"}\"}&source=local_gallery&ref=LOCALRECOMM","cp":"ytb","position":1,"searchGenre":"Other","network":0,"click":false,"top":false,"item_id":"166388937252806565","item_type":"shortvideo","item_style":101,"source_item_id":"V-ytb-DuR_NvhB0UE","image_url":"https://i.ytimg.com/vi/DuR_NvhB0UE/maxresdefault.jpg","sub_title":"","author_id":51228654747003765,"target_report":["mv://LogMivideo?event=VIEW","mv://LogMivideo?event=CLICK"],"view_count":418619,"view_count_text":"419K Views","view_count_transform":"419K","gmt_publish":1598713493000,"gmt_publish_text":"1 month ago","video_status":1,"video_category":"Comedy","video_category_code":2020,"share":true,"channel_type":0},{"title":"Lima bayi kecil | sajak untuk anak-anak | lagu di indonesia | Songs for Babies | Five little Babies","language":"english","year":"","duration":1819,"target":"mv://YouTube?action=playVideo&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DUwb8ZWLvR14&detail_id=v1-ytb-129951136940697293&mode=mivideo&path=local&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&report={\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"129951136940697293\\\",\\\"playlist_id\\\":null,\\\"position\\\":3,\\\"exp\\\":\\\"v1\\\"}\"}&source=local_gallery&ref=LOCALRECOMM","cp":"ytb","position":2,"searchGenre":"Other","network":0,"click":false,"top":false,"item_id":"129951136940697293","item_type":"shortvideo","item_style":101,"source_item_id":"V-ytb-Uwb8ZWLvR14","image_url":"https://i.ytimg.com/vi/Uwb8ZWLvR14/maxresdefault.jpg","sub_title":"","author_id":129951126979356791,"target_report":["mv://LogMivideo?event=VIEW","mv://LogMivideo?event=CLICK"],"view_count":18788776,"view_count_text":"19M Views","view_count_transform":"19M","gmt_publish":1565432020000,"gmt_publish_text":"1 year ago","video_status":1,"video_category":"Education","video_category_code":2030,"share":true,"channel_type":0},{"title":"Crushing Crunchy & Soft Things by Car! EXPERIMENT: Car vs Slime Piping Bags 2","language":"english","year":"","duration":114,"target":"mv://YouTube?action=playVideo&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3Dpp6zCGX4nyo&detail_id=v1-ytb-159718530772767035&mode=mivideo&path=local&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&report={\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"159718530772767035\\\",\\\"playlist_id\\\":null,\\\"position\\\":4,\\\"exp\\\":\\\"v1\\\"}\"}&source=local_gallery&ref=LOCALRECOMM","cp":"ytb","position":3,"searchGenre":"Other","network":0,"click":false,"top":false,"item_id":"159718530772767035","item_type":"shortvideo","item_style":101,"source_item_id":"V-ytb-pp6zCGX4nyo","image_url":"https://i.ytimg.com/vi/pp6zCGX4nyo/maxresdefault.jpg","sub_title":"","author_id":158100359418748984,"target_report":["mv://LogMivideo?event=VIEW","mv://LogMivideo?event=CLICK"],"view_count":295034,"view_count_text":"295K Views","view_count_transform":"295K","gmt_publish":1599942195000,"gmt_publish_text":"20 days ago","video_status":1,"video_category":"Entertainment","video_category_code":2005,"share":true,"channel_type":0},{"title":"PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak","description":"PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak\n\nVidio ini hanyalah hiburan untuk menghibur kalian semua\nJika kalian suka, Komentar di Bawah, Gimana Vidio ini menurut kalian\n\nSubscribe Channel ini jika kalian suka Vidio\" nya : Idul Syahputra\n\n#OrangGila #PrankOrangGila\n\nFollow juga Instagram aku :Idul Syahputra\nSemoga kita bisa berteman baik 🙏\n\n\nTerimakasih 😘","language":"english","year":"","duration":430,"target":"mv://VideoShort?url=entity%2Fv1-cms-92206192528594419&path=local&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&report={\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"92206192528594419\\\",\\\"playlist_id\\\":null,\\\"position\\\":5,\\\"exp\\\":\\\"v1\\\"}\"}&source=local_gallery&ref=LOCALRECOMM","cp":"cms","position":4,"searchGenre":"Other","network":0,"click":false,"top":false,"item_id":"92206192528594419","item_type":"shortvideo","item_style":101,"source_item_id":"V-ytb-E1UuX1osI-U","image_url":"https://i.ytimg.com/vi/E1UuX1osI-U/maxresdefault.jpg","sub_title":"","author_id":92206165962007986,"target_report":["mv://LogMivideo?event=VIEW","mv://LogMivideo?event=CLICK"],"view_count":6306527,"view_count_text":"6.3M Views","view_count_transform":"6.3M","gmt_publish":1581071698000,"gmt_publish_text":"7 months ago","video_status":1,"video_category":"Comedy","video_category_code":2020,"share":true,"channel_type":0},{"title":"Tayo English Episodes l Who is the boss of the garage? l Tayo the Little Bus","language":"english","year":"2020","duration":2047,"target":"mv://YouTube?action=playVideo&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DvVXPW8GyeqU&detail_id=v1-ytb-166387918347315602&mode=mivideo&path=local&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&report={\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"166387918347315602\\\",\\\"playlist_id\\\":null,\\\"position\\\":6,\\\"exp\\\":\\\"v1\\\"}\"}&source=local_gallery&ref=LOCALRECOMM","cp":"ytb","position":5,"searchGenre":"Other","network":0,"click":false,"top":false,"item_id":"166387918347315602","item_type":"shortvideo","item_style":101,"source_item_id":"V-ytb-vVXPW8GyeqU","image_url":"https://i.ytimg.com/vi/vVXPW8GyeqU/maxresdefault.jpg","sub_title":"","author_id":51228654897995192,"target_report":["mv://LogMivideo?event=VIEW","mv://LogMivideo?event=CLICK"],"view_count":782025,"view_count_text":"782K Views","view_count_transform":"782K","gmt_publish":1590867362000,"gmt_publish_text":"4 months ago","video_status":1,"video_category":"Kids","video_category_code":2016,"share":true,"channel_type":0},{"title":"Experiment: Coca Cola and Lava Underground!","language":"english","year":"2020","duration":611,"target":"mv://YouTube?action=playVideo&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DP97_drPqSqI&detail_id=v1-ytb-166482939494929587&mode=mivideo&path=local&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&report={\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"166482939494929587\\\",\\\"playlist_id\\\":null,\\\"position\\\":7,\\\"exp\\\":\\\"v1\\\"}\"}&source=local_gallery&ref=LOCALRECOMM","cp":"ytb","position":6,"searchGenre":"Other","network":0,"click":false,"top":false,"item_id":"166482939494929587","item_type":"shortvideo","item_style":101,"source_item_id":"V-ytb-P97_drPqSqI","image_url":"https://i.ytimg.com/vi/P97_drPqSqI/maxresdefault.jpg","sub_title":"","author_id":51228654839275000,"target_report":["mv://LogMivideo?event=VIEW","mv://LogMivideo?event=CLICK"],"view_count":10603317,"view_count_text":"11M Views","view_count_transform":"11M","gmt_publish":1582936508000,"gmt_publish_text":"7 months ago","video_status":1,"video_category":"Entertainment","video_category_code":2005,"share":true,"channel_type":0},{"title":"Jangan Salah Paham! Inilah 50-an Foto yang Bisa Membuat Anda Bingung Saat Pertama Kali Melihatnya!","language":"english","year":"","duration":591,"target":"mv://YouTube?action=playVideo&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3Du9W5KA69Owk&detail_id=v1-ytb-165432659647014974&mode=mivideo&path=local&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&report={\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"165432659647014974\\\",\\\"playlist_id\\\":null,\\\"position\\\":8,\\\"exp\\\":\\\"v1\\\"}\"}&source=local_gallery&ref=LOCALRECOMM","cp":"ytb","position":7,"searchGenre":"Other","network":0,"click":false,"top":false,"item_id":"165432659647014974","item_type":"shortvideo","item_style":101,"source_item_id":"V-ytb-u9W5KA69Owk","image_url":"https://i.ytimg.com/vi/u9W5KA69Owk/maxresdefault.jpg","sub_title":"","author_id":73716835077596444,"target_report":["mv://LogMivideo?event=VIEW","mv://LogMivideo?event=CLICK"],"view_count":989127,"view_count_text":"989K Views","view_count_transform":"989K","gmt_publish":1601233076000,"gmt_publish_text":"5 days ago","video_status":1,"video_category":"Viral","video_category_code":2025,"share":true,"channel_type":0},{"title":"Watch More on Mi Video","target":"mv://Main?action=TAB_TRENDING&url=feed/op-home&source=local&ref=LOCALRECOMM","network":0,"click":false,"top":false,"item_id":"local_diversion_logo","image_url":"https://alsgp0-fds.api.xiaomi.net/gmivideo-api-resources/icon/logo2.png","share":false,"channel_type":0}],"row_type":"videos_horizontal_image"}]}]}}
+
+
+
+2020-10-03 07:56:31	DEBUG	com.miui.videoplayer	[ RecommendDataUtils ]  onNext [TinyCardEntity[baseId=0][title = UPIN IPIN - PERANGI RASUAH (By COMMED)], TinyCardEntity[baseId=0][title = VIDEO LUCU BIKIN NGAKAK WARGA +62 PART 14], TinyCardEntity[baseId=0][title = Lima bayi kecil | sajak untuk anak-anak | lagu di indonesia | Songs for Babies | Five little Babies], TinyCardEntity[baseId=0][title = Crushing Crunchy & Soft Things by Car! EXPERIMENT: Car vs Slime Piping Bags 2], TinyCardEntity[baseId=0][title = PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak], TinyCardEntity[baseId=0][title = Tayo English Episodes l Who is the boss of the garage? l Tayo the Little Bus], TinyCardEntity[baseId=0][title = Experiment: Coca Cola and Lava Underground!], TinyCardEntity[baseId=0][title = Jangan Salah Paham! Inilah 50-an Foto yang Bisa Membuat Anda Bingung Saat Pertama Kali Melihatnya!], TinyCardEntity[baseId=0][title = Watch More on Mi Video]]
+2020-10-03 07:56:31	DEBUG	com.miui.videoplayer	[ RecommendDataUtils ] onComplete mDataList:  9
+2020-10-03 07:56:31	DEBUG	com.miui.videoplayer	[ RecommendDataUtils ] onComplete filteredData:  9
+2020-10-03 07:56:37	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Destroy com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@262a24f
+2020-10-03 07:56:39	DEBUG	com.miui.videoplayer	[ RecommendUtils ] 推荐视频本地开关 true
+2020-10-03 07:56:39	DEBUG	com.miui.videoplayer	[ RecommendUtils ] isFromExternal = true
+2020-10-03 07:56:39	DEBUG	com.miui.videoplayer	[ RecommendUtils ] dailyShowTimes = 0
+2020-10-03 07:56:39	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlShowTimes = 100
+2020-10-03 07:56:39	DEBUG	com.miui.videoplayer	[ RecommendUtils ] dailyClickTimes = 0
+2020-10-03 07:56:39	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlNonClickTimes = 100
+2020-10-03 07:56:39	DEBUG	com.miui.videoplayer	[ RecommendUtils ] currentTime = 1601686599768
+2020-10-03 07:56:39	DEBUG	com.miui.videoplayer	[ RecommendUtils ] lastShowTime = 1601686590278
+2020-10-03 07:56:39	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlShowTimeInterval = 1000
+2020-10-03 07:56:39	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Paused com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@4de4c4a
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ FrameworkApplication ] onActivityCreated com.miui.video.player.service.recommend.RecommendVideoActivity@5b4eb89createdCount = 2 listener.size = 1
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Created com.miui.video.player.service.recommend.RecommendVideoActivity@5b4eb89
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] onOnlineActivityCreated com.miui.video.player.service.recommend.RecommendVideoActivity@5b4eb89createdCount = 1
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken threadpool-io-2
+2020-10-03 07:56:40	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"english","st":"","_page":"RecommendVideoActivity","_miui":"V11","module":"main_page","_ver":"2020042900(MiVideo-GROM)","_anoyid":"8635b58e-e970-4fbd-bb0b-9212bf51cf5e","source":"self_start","_region":"ID","_res":"hd1080","_device":"merlin","_miuiver":"V11.0.2.0.QJOIDXM","ref":"com.miui.videoplayer","_appver":"2020042930","_nettype":"1","_andver":"29","_model":"M2003J15SC","event":"online_start_up","_plyver":"20190604","_ismiui":"1","append":"{\"is_first\":\"yes\"}","_locale":"in_ID","_ts":"1601686600"}
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ RecommendVideoActivity ] 27 Agustus 2020 - gallery - /storage/emulated/0/Download/DownloaderForTwitter/Page-😜_20201002_2.mp4 - null
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ RecommendVideoActivity ] ReplayCallback  getVideoTitle mVideoTitle ==
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ RecommendAdapter ]  setData [TinyCardEntity[baseId=0][title = PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak], TinyCardEntity[baseId=0][title = Lima bayi kecil | sajak untuk anak-anak | lagu di indonesia | Songs for Babies | Five little Babies], TinyCardEntity[baseId=0][title = VIDEO LUCU BIKIN NGAKAK WARGA +62 PART 14], TinyCardEntity[baseId=0][title = Crushing Crunchy & Soft Things by Car! EXPERIMENT: Car vs Slime Piping Bags 2], TinyCardEntity[baseId=0][title = Experiment: Coca Cola and Lava Underground!], TinyCardEntity[baseId=0][title = UPIN IPIN - PERANGI RASUAH (By COMMED)], TinyCardEntity[baseId=0][title = Tayo English Episodes l Who is the boss of the garage? l Tayo the Little Bus], TinyCardEntity[baseId=0][title = Jangan Salah Paham! Inilah 50-an Foto yang Bisa Membuat Anda Bingung Saat Pertama Kali Melihatnya!], TinyCardEntity[baseId=0][title = Watch More on Mi Video]]
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ StatisticsUtils2 ] reportEventStatistics local_diversion_expose --- {}
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ StatisticsUtils2 ] runStatistics : eventKey =  local_diversion_expose params = {}
+2020-10-03 07:56:40	WARN	com.miui.videoplayer	[ RecommendVideoActivity ] showController
+
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken StatisticsUtils2
+2020-10-03 07:56:40	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:40	WARN	com.miui.videoplayer	[ RecommendVideoActivity ]  setBottomPadding 0 - 0 - 0 - 130
+
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"english","st":"","_page":"RecommendVideoActivity","_miui":"V11","module":"local_diversion","_ver":"2020042900(MiVideo-GROM)","_anoyid":"8635b58e-e970-4fbd-bb0b-9212bf51cf5e","source":"gallery","_region":"ID","_res":"hd1080","_device":"merlin","_miuiver":"V11.0.2.0.QJOIDXM","ref":"com.miui.videoplayer","_appver":"2020042930","_nettype":"1","_andver":"29","_model":"M2003J15SC","event":"local_diversion_expose","_plyver":"20190604","_ismiui":"1","_locale":"in_ID","_ts":"1601686600"}
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ FrameworkApplication ] onActivityStarted com.miui.video.player.service.recommend.RecommendVideoActivity@5b4eb89startedCount = 2
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Resumed com.miui.video.player.service.recommend.RecommendVideoActivity@5b4eb89
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ WebView ] com.miui.video.biz.player.online.plugin.cp.youtube.iframe.YouTubeIframeWebView{a9585d7 VFEDHVC.. ......I. 0,0-0,0}Settings: getAllowContentAccess=true; getAllowFileAccess=true; getAllowFileAccessFromFileURLs=false; getAllowUniversalAccessFromFileURLs=false; getBlockNetworkImage=false ; getBlockNetworkLoads=false ; getBuiltInZoomControls=false ; getCacheMode=-1; getCursiveFontFamily=cursive; getDatabaseEnabled=false; getDatabasePath=; getDefaultFixedFontSize=13; getDefaultFontSize=16; getDefaultTextEncodingName=UTF-8; getDefaultZoom=MEDIUM; getDisplayZoomControls=true; getDomStorageEnabled=false; getFantasyFontFamily=fantasy; getFixedFontFamily=monospace; getJavaScriptCanOpenWindowsAutomatically=false; getJavaScriptEnabled=false; getLayoutAlgorithm=NARROW_COLUMNS; getLightTouchEnabled=false; getLoadWithOverviewMode=false; getLoadsImagesAutomatically=true; getMediaPlaybackRequiresUserGesture=true; getMinimumFontSize=8; getMinimumLogicalFontSize=8; getMixedContentMode=1; getPluginState=OFF; getSansSerifFontFamily=sans-serif; getSaveFormData=false; getSavePassword=false; getSerifFontFamily=serif; getStandardFontFamily=sans-serif; getTextSize=NORMAL; getTextZoom=100; getUseWideViewPort=false; getUserAgentString=Mozilla/5.0 (Linux; Android 10; M2003J15SC Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4044.138 Mobile Safari/537.36
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ null ] initWebViewClient
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ null ] initWebChromeClient
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ com.miui.video.biz.player.online.plugin.cp.youtube.iframe.YouTubeIframeWebView{a9585d7 VFEDHVC.. ......I. 0,0-0,0} ] resumePlayer
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ com.miui.video.biz.player.online.plugin.cp.youtube.iframe.YouTubeIframeWebView{a9585d7 VFEDHVC.. ......I. 0,0-0,0} ] load url = https://video.in.intl.xiaomi.com/resolve/global_v/global_share?seg=%2Fyoutube
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ WebviewObserverManager ] registerObserver:com.miui.video.biz.player.online.plugin.cp.youtube.YoutubeWebViewManager@874d6e1
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ RecommendVideoActivity ] handleBack 
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ com.miui.video.biz.player.online.plugin.cp.youtube.iframe.YouTubeIframeWebView{a9585d7 VFEDHVC.. ......I. 0,0-0,0} ] WebChromeClient onProgress : 10
+2020-10-03 07:56:40	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Paused com.miui.video.player.service.recommend.RecommendVideoActivity@5b4eb89
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ FrameworkApplication ] onActivityStopped com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@4de4c4astartedCount = 1
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Destroy com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@4de4c4a
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ FrameworkApplication ] onActivityStopped com.miui.video.player.service.recommend.RecommendVideoActivity@5b4eb89startedCount = 0
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ FrameworkApplication ] App On Background
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on App Background : com.miui.video.player.service.recommend.RecommendVideoActivity@5b4eb89
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Destroy com.miui.video.player.service.recommend.RecommendVideoActivity@5b4eb89
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] onOnlineActivityDestoryed com.miui.video.player.service.recommend.RecommendVideoActivity@5b4eb89createdCount = 0
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Process Exit : com.miui.video.player.service.recommend.RecommendVideoActivity@5b4eb89
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ videocache:VideoCacheManager ] clearCache
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken threadpool-io-3
+2020-10-03 07:56:41	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"english","st":"","_page":"RecommendVideoActivity","_miui":"V11","module":"main_page","_ver":"2020042900(MiVideo-GROM)","_anoyid":"8635b58e-e970-4fbd-bb0b-9212bf51cf5e","source":"online_start","_region":"ID","_res":"hd1080","_device":"merlin","_miuiver":"V11.0.2.0.QJOIDXM","ref":"com.miui.videoplayer","_appver":"2020042930","_nettype":"1","_andver":"29","_model":"M2003J15SC","event":"online_exit_quit","_plyver":"20190604","_ismiui":"1","append":"{\"time\":\"481\"}","_locale":"in_ID","_ts":"1601686601"}
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ HttpUrlSource ] Open connection  to http://127.0.0.1:44677/ping
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ HttpProxyCacheServer ] Accept new socket Socket[address=/127.0.0.1,port=49308,localPort=44677]
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ GetRequest ] request : 
+GET /ping HTTP/1.1
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 10; M2003J15SC MIUI/V11.0.2.0.QJOIDXM)
+Host: 127.0.0.1:44677
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+2020-10-03 07:56:41	INFO	com.miui.videoplayer	[ HttpProxyCacheServer ] Request to cache proxy:GetRequest{rangeOffset=0, partial=false, uri='ping'}
+2020-10-03 07:56:41	INFO	com.miui.videoplayer	[ HttpProxyCacheServer ] Opened connections: 0
+2020-10-03 07:56:41	INFO	com.miui.videoplayer	[ Pinger ] Ping response: `ping ok`, pinged? true
+2020-10-03 07:56:41	INFO	com.miui.videoplayer	[ HttpProxyCacheServer ] Proxy cache server started. Is it alive? true
+2020-10-03 07:56:41	INFO	com.miui.videoplayer	[ HttpProxyCacheServer ] Shutdown proxy server
+2020-10-03 07:56:41	ERROR	HttpProxyCacheServer	[ HttpProxyCacheServer error ] com.danikula.videocache.ProxyCacheException: Error during waiting connection. Version: 
+
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ com.miui.video.biz.player.online.plugin.cp.youtube.iframe.YouTubeIframeWebView{a9585d7 VFEDHVC.. ......I. 0,0-0,0} ] onPageStarted https://video.in.intl.xiaomi.com/resolve/global_v/global_share?seg=%2Fyoutube
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ com.miui.video.biz.player.online.plugin.cp.youtube.iframe.YouTubeIframeWebView{a9585d7 VFEDHVC.. ......I. 0,0-0,0} ] onPageFinished https://video.in.intl.xiaomi.com/resolve/global_v/global_share?seg=%2Fyoutube
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ com.miui.video.biz.player.online.plugin.cp.youtube.iframe.YouTubeIframeWebView{a9585d7 VFEDHVC.. ......I. 0,0-0,0} ] WebChromeClient onProgress : 70
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ com.miui.video.biz.player.online.plugin.cp.youtube.iframe.YouTubeIframeWebView{a9585d7 VFEDHVC.. ......I. 0,0-0,0} ] WebChromeClient onProgress : 100
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ com.miui.video.biz.player.online.plugin.cp.youtube.iframe.YouTubeIframeWebView{a9585d7 VFEDHVC.. ......I. 0,0-0,0} ] WebChromeClient onProgress : 100
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ RecommendVideoContainer ]    onUIShow
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ RecommendVideoContainer ]  onUIShow : 00 - TinyCardEntity[baseId=0][title = PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak]
+2020-10-03 07:56:41	DEBUG	StatisticsUtils	[ addStatistics ] STATISTICS_ACTION= ACTION_SHOW  obj= TinyCardEntity[baseId=0][title = PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak]
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ WidgetEventDispatcher ] onViewStatistics(), item:TinyCardEntity[baseId=0][title = PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak], additions: null, position = 0
+2020-10-03 07:56:41	DEBUG	WidgetEventDispatcher	[ dispatch ] VIEW{ itemData=TinyCardEntity[baseId=0][title = PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak], parameters=[	com.miui.video.framework.uri.LinkEntity@7d0c2ab
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@a752d08
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ RecommendVideoContainer ]  onUIShow : 01 - TinyCardEntity[baseId=0][title = Lima bayi kecil | sajak untuk anak-anak | lagu di indonesia | Songs for Babies | Five little Babies]
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ WidgetEventDispatcher ] VIEW{ itemData=TinyCardEntity[baseId=0][title = PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak], parameters=[	com.miui.video.framework.uri.LinkEntity@7d0c2ab
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@a752d08
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:56:41	DEBUG	StatisticsUtils	[ addStatistics ] STATISTICS_ACTION= ACTION_SHOW  obj= TinyCardEntity[baseId=0][title = Lima bayi kecil | sajak untuk anak-anak | lagu di indonesia | Songs for Babies | Five little Babies]
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ WidgetEventDispatcher ] onViewStatistics(), item:TinyCardEntity[baseId=0][title = Lima bayi kecil | sajak untuk anak-anak | lagu di indonesia | Songs for Babies | Five little Babies], additions: null, position = 1
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ LogMivideo ] VIEW{ itemData=TinyCardEntity[baseId=0][title = PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak], parameters=[	com.miui.video.framework.uri.LinkEntity@7d0c2ab
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@a752d08
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:56:41	DEBUG	WidgetEventDispatcher	[ dispatch ] VIEW{ itemData=TinyCardEntity[baseId=0][title = Lima bayi kecil | sajak untuk anak-anak | lagu di indonesia | Songs for Babies | Five little Babies], parameters=[	com.miui.video.framework.uri.LinkEntity@3cccca1
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@a125ec6
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ LogMivideo ] report view event
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ RecommendVideoContainer ]  onUIShow : 02 - TinyCardEntity[baseId=0][title = VIDEO LUCU BIKIN NGAKAK WARGA +62 PART 14]
+2020-10-03 07:56:41	DEBUG	StatisticsUtils	[ addStatistics ] STATISTICS_ACTION= ACTION_SHOW  obj= TinyCardEntity[baseId=0][title = VIDEO LUCU BIKIN NGAKAK WARGA +62 PART 14]
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ WidgetEventDispatcher ] onViewStatistics(), item:TinyCardEntity[baseId=0][title = VIDEO LUCU BIKIN NGAKAK WARGA +62 PART 14], additions: null, position = 2
+2020-10-03 07:56:41	DEBUG	WidgetEventDispatcher	[ dispatch ] VIEW{ itemData=TinyCardEntity[baseId=0][title = VIDEO LUCU BIKIN NGAKAK WARGA +62 PART 14], parameters=[	com.miui.video.framework.uri.LinkEntity@5d6de87
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@7b411b4
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken UIEventDispatcher-video
+2020-10-03 07:56:41	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"english","st":"","_page":"RecommendVideoActivity","_miui":"V11","_ver":"2020042900(MiVideo-GROM)","_anoyid":"8635b58e-e970-4fbd-bb0b-9212bf51cf5e","_region":"ID","_res":"hd1080","_device":"merlin","target":"mv://VideoShort?url\u003dentity%2Fv1-cms-92206192528594419\u0026path\u003dlocal\u0026back_scheme\u003dmv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026report\u003d{\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"92206192528594419\\\",\\\"playlist_id\\\":null,\\\"position\\\":5,\\\"exp\\\":\\\"v1\\\"}\"}\u0026source\u003dlocal_gallery\u0026ref\u003dLOCALRECOMM","_miuiver":"V11.0.2.0.QJOIDXM","ref":"com.miui.videoplayer","at":"1601686601398","_appver":"2020042930","_nettype":"1","_andver":"29","_model":"M2003J15SC","event":"VIEW","_plyver":"20190604","_ismiui":"1","_locale":"in_ID","_ts":"1601686601"}
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ LogMivideo ] VIEW{ itemData=TinyCardEntity[baseId=0][title = PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak], parameters=[	com.miui.video.framework.uri.LinkEntity@7d0c2ab
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@a752d08
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ LogMivideo ] Not report view event
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ WidgetEventDispatcher ] VIEW{ itemData=TinyCardEntity[baseId=0][title = Lima bayi kecil | sajak untuk anak-anak | lagu di indonesia | Songs for Babies | Five little Babies], parameters=[	com.miui.video.framework.uri.LinkEntity@3cccca1
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@a125ec6
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ LogMivideo ] VIEW{ itemData=TinyCardEntity[baseId=0][title = Lima bayi kecil | sajak untuk anak-anak | lagu di indonesia | Songs for Babies | Five little Babies], parameters=[	com.miui.video.framework.uri.LinkEntity@3cccca1
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@a125ec6
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ LogMivideo ] report view event
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken UIEventDispatcher-video
+2020-10-03 07:56:41	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"english","st":"","_page":"RecommendVideoActivity","_miui":"V11","_ver":"2020042900(MiVideo-GROM)","_anoyid":"8635b58e-e970-4fbd-bb0b-9212bf51cf5e","_region":"ID","_res":"hd1080","_device":"merlin","target":"mv://YouTube?action\u003dplayVideo\u0026default\u003dmv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DUwb8ZWLvR14\u0026detail_id\u003dv1-ytb-129951136940697293\u0026mode\u003dmivideo\u0026path\u003dlocal\u0026back_scheme\u003dmv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026report\u003d{\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"129951136940697293\\\",\\\"playlist_id\\\":null,\\\"position\\\":3,\\\"exp\\\":\\\"v1\\\"}\"}\u0026source\u003dlocal_gallery\u0026ref\u003dLOCALRECOMM","_miuiver":"V11.0.2.0.QJOIDXM","ref":"com.miui.videoplayer","at":"1601686601409","_appver":"2020042930","_nettype":"1","_andver":"29","_model":"M2003J15SC","event":"VIEW","_plyver":"20190604","_ismiui":"1","_locale":"in_ID","_ts":"1601686601"}
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ LogMivideo ] VIEW{ itemData=TinyCardEntity[baseId=0][title = Lima bayi kecil | sajak untuk anak-anak | lagu di indonesia | Songs for Babies | Five little Babies], parameters=[	com.miui.video.framework.uri.LinkEntity@3cccca1
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@a125ec6
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ LogMivideo ] Not report view event
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ WidgetEventDispatcher ] VIEW{ itemData=TinyCardEntity[baseId=0][title = VIDEO LUCU BIKIN NGAKAK WARGA +62 PART 14], parameters=[	com.miui.video.framework.uri.LinkEntity@5d6de87
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@7b411b4
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ LogMivideo ] VIEW{ itemData=TinyCardEntity[baseId=0][title = VIDEO LUCU BIKIN NGAKAK WARGA +62 PART 14], parameters=[	com.miui.video.framework.uri.LinkEntity@5d6de87
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@7b411b4
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ LogMivideo ] report view event
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken UIEventDispatcher-video
+2020-10-03 07:56:41	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"english","st":"","_page":"RecommendVideoActivity","_miui":"V11","_ver":"2020042900(MiVideo-GROM)","_anoyid":"8635b58e-e970-4fbd-bb0b-9212bf51cf5e","_region":"ID","_res":"hd1080","_device":"merlin","target":"mv://YouTube?action\u003dplayVideo\u0026default\u003dmv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DDuR_NvhB0UE\u0026detail_id\u003dv1-ytb-166388937252806565\u0026mode\u003dmivideo\u0026path\u003dlocal\u0026back_scheme\u003dmv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026report\u003d{\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"166388937252806565\\\",\\\"playlist_id\\\":null,\\\"position\\\":2,\\\"exp\\\":\\\"v1\\\"}\"}\u0026source\u003dlocal_gallery\u0026ref\u003dLOCALRECOMM","_miuiver":"V11.0.2.0.QJOIDXM","ref":"com.miui.videoplayer","at":"1601686601423","_appver":"2020042930","_nettype":"1","_andver":"29","_model":"M2003J15SC","event":"VIEW","_plyver":"20190604","_ismiui":"1","_locale":"in_ID","_ts":"1601686601"}
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ LogMivideo ] VIEW{ itemData=TinyCardEntity[baseId=0][title = VIDEO LUCU BIKIN NGAKAK WARGA +62 PART 14], parameters=[	com.miui.video.framework.uri.LinkEntity@5d6de87
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@7b411b4
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:56:41	DEBUG	com.miui.videoplayer	[ LogMivideo ] Not report view event
+2020-10-03 07:56:44	DEBUG	com.miui.videoplayer	[ FrameworkApplication ] onActivityCreated com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@3960576createdCount = 1 listener.size = 1
+2020-10-03 07:56:44	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Created com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@3960576
+2020-10-03 07:56:44	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Process Startcom.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@3960576
+2020-10-03 07:56:44	DEBUG	com.miui.videoplayer	[ FrameworkApplication ] onActivityStarted com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@3960576startedCount = 1
+2020-10-03 07:56:44	DEBUG	com.miui.videoplayer	[ FrameworkApplication ] App On Foreground : listener.size = 1
+2020-10-03 07:56:44	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on App Foregroundcom.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@3960576
+2020-10-03 07:56:44	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Resumed com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@3960576
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ StatisticsUtils2 ] reportEventStatistics gallery_play_start --- {location=0}
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ StatisticsUtils2 ] reportEventStatistics gallery_play_start --- {location=0}
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ StatisticsUtils2 ] runStatistics : eventKey =  gallery_play_start params = {location=0}
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken StatisticsUtils2
+2020-10-03 07:56:45	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"english","st":"","_page":"FrameLocalPlayActivity","_miui":"V11","_ver":"2020042900(MiVideo-GROM)","_anoyid":"8635b58e-e970-4fbd-bb0b-9212bf51cf5e","_region":"ID","_res":"hd1080","_device":"merlin","_miuiver":"V11.0.2.0.QJOIDXM","ref":"com.miui.videoplayer","_appver":"2020042930","_nettype":"1","_andver":"29","_model":"M2003J15SC","event":"gallery_play_start","_plyver":"20190604","_ismiui":"1","append":"{\"location\":\"0\"}","_locale":"in_ID","_ts":"1601686605"}
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ StatisticsUtils2 ] runStatistics : eventKey =  gallery_play_start params = {location=0}
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken StatisticsUtils2
+2020-10-03 07:56:45	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"english","st":"","_page":"FrameLocalPlayActivity","_miui":"V11","_ver":"2020042900(MiVideo-GROM)","_anoyid":"8635b58e-e970-4fbd-bb0b-9212bf51cf5e","_region":"ID","_res":"hd1080","_device":"merlin","_miuiver":"V11.0.2.0.QJOIDXM","ref":"com.miui.videoplayer","_appver":"2020042930","_nettype":"1","_andver":"29","_model":"M2003J15SC","event":"gallery_play_start","_plyver":"20190604","_ismiui":"1","append":"{\"location\":\"0\"}","_locale":"in_ID","_ts":"1601686605"}
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ RecommendUtils ] 推荐视频本地开关 true
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ RecommendUtils ] isFromExternal = true
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ RecommendUtils ] dailyShowTimes = 0
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlShowTimes = 100
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ RecommendUtils ] dailyClickTimes = 0
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlNonClickTimes = 100
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ RecommendUtils ] currentTime = 1601686605498
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ RecommendUtils ] lastShowTime = 1601686599768
+2020-10-03 07:56:45	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlShowTimeInterval = 1000
+2020-10-03 07:56:46	DEBUG	com.miui.videoplayer	[ RecommendDataUtils ] lastType : 
+2020-10-03 07:56:46	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:46	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken RxCachedThreadScheduler-1
+2020-10-03 07:56:46	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:46	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:46	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:46	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:46	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:46	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:46	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken RxCachedThreadScheduler-1
+2020-10-03 07:56:46	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:46	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] --->>> GET   https://id.video.intl.xiaomi.com/api2/local/diversion?version=v2&is_from_gallery=true&videoCategory=&_sdevid=8635b58e-e970-4fbd-bb0b-9212bf51cf5e&_miui=V11&_miuiver=V11.0.2.0.QJOIDXM&_andver=29&_model=M2003J15SC&_device=merlin&_locale=in_ID&_region=ID&_appver=2020042930&_ismiui=1&_anoyid=8635b58e-e970-4fbd-bb0b-9212bf51cf5e&_language=english&ref=com.miui.videoplayer&fcmToken=cWh3Z_QRabA%3AAPA91bGWTWIANWLDNa9bXyg5LfsjW4nKlmJ_iQ7WM4HN5pCons9blxT7eKcBGTJU9ZkO-rxoLKfu-OzP2DBI2vnVN0ya4kFWxzC7fywztCQwRkBvS9iVtHtGADZpaUJsxcLeefG-Z5V4&_gaid=7c39238f-a93e-4e5f-bf24-e4db683173b7&_personalized=true&_res=hd1080&_nonce=1868441507&_ts=1601686606&_ver=2020042900%28MiVideo-GROM%29&_devtype=1&_version=stable&_nettype=1&_uspace=0&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db&st=  http/1.1  header_params--->>>st : 
+Request Body is null
+
+2020-10-03 07:56:46	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackDev : map = {"net_event_flag":"https://id.video.intl.xiaomi.com/api2/local/diversion","net_event_result_type":"0","net_event_requeststarttime":"55","net_event_statuscode":"1","net_event_retrycount":"0","event":"event_type_net","net_event_responsecode":"200"}
+2020-10-03 07:56:46	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] <<<--- Response base info : 200  https://id.video.intl.xiaomi.com/api2/local/diversion?version=v2&is_from_gallery=true&videoCategory=&_sdevid=8635b58e-e970-4fbd-bb0b-9212bf51cf5e&_miui=V11&_miuiver=V11.0.2.0.QJOIDXM&_andver=29&_model=M2003J15SC&_device=merlin&_locale=in_ID&_region=ID&_appver=2020042930&_ismiui=1&_anoyid=8635b58e-e970-4fbd-bb0b-9212bf51cf5e&_language=english&ref=com.miui.videoplayer&fcmToken=cWh3Z_QRabA%3AAPA91bGWTWIANWLDNa9bXyg5LfsjW4nKlmJ_iQ7WM4HN5pCons9blxT7eKcBGTJU9ZkO-rxoLKfu-OzP2DBI2vnVN0ya4kFWxzC7fywztCQwRkBvS9iVtHtGADZpaUJsxcLeefG-Z5V4&_gaid=7c39238f-a93e-4e5f-bf24-e4db683173b7&_personalized=true&_res=hd1080&_nonce=1868441507&_ts=1601686606&_ver=2020042900%28MiVideo-GROM%29&_devtype=1&_version=stable&_nettype=1&_uspace=0&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db&st= unknown bytes size
+<<<--- {"result":1,"msg":"OK","sys_time":1601686355114,"data":{"card_list":[{"row_list":[{"item_list":[{"title":"UPIN IPIN - PERANGI RASUAH (By COMMED)","language":"english","year":"2015","duration":1162,"target":"mv://YouTube?action=playVideo&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DXitCIV_7hdQ&detail_id=v1-ytb-166387833609788576&mode=mivideo&path=local&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&report={\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"166387833609788576\\\",\\\"playlist_id\\\":null,\\\"position\\\":1,\\\"exp\\\":\\\"v1\\\"}\"}&source=local_gallery&ref=LOCALRECOMM","cp":"ytb","position":0,"searchGenre":"Other","network":0,"click":false,"top":false,"item_id":"166387833609788576","item_type":"shortvideo","item_style":101,"source_item_id":"V-ytb-XitCIV_7hdQ","image_url":"https://i.ytimg.com/vi/XitCIV_7hdQ/maxresdefault.jpg","sub_title":"","author_id":51228654897995192,"target_report":["mv://LogMivideo?event=VIEW","mv://LogMivideo?event=CLICK"],"view_count":39307605,"view_count_text":"39M Views","view_count_transform":"39M","gmt_publish":1422453815000,"gmt_publish_text":"5 years ago","video_status":1,"video_category":"Kids","video_category_code":2016,"share":true,"channel_type":0},{"title":"VIDEO LUCU BIKIN NGAKAK WARGA +62 PART 14","language":"english","year":"2020","duration":609,"target":"mv://YouTube?action=playVideo&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DDuR_NvhB0UE&detail_id=v1-ytb-166388937252806565&mode=mivideo&path=local&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&report={\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"166388937252806565\\\",\\\"playlist_id\\\":null,\\\"position\\\":2,\\\"exp\\\":\\\"v1\\\"}\"}&source=local_gallery&ref=LOCALRECOMM","cp":"ytb","position":1,"searchGenre":"Other","network":0,"click":false,"top":false,"item_id":"166388937252806565","item_type":"shortvideo","item_style":101,"source_item_id":"V-ytb-DuR_NvhB0UE","image_url":"https://i.ytimg.com/vi/DuR_NvhB0UE/maxresdefault.jpg","sub_title":"","author_id":51228654747003765,"target_report":["mv://LogMivideo?event=VIEW","mv://LogMivideo?event=CLICK"],"view_count":418619,"view_count_text":"419K Views","view_count_transform":"419K","gmt_publish":1598713493000,"gmt_publish_text":"1 month ago","video_status":1,"video_category":"Comedy","video_category_code":2020,"share":true,"channel_type":0},{"title":"Lima bayi kecil | sajak untuk anak-anak | lagu di indonesia | Songs for Babies | Five little Babies","language":"english","year":"","duration":1819,"target":"mv://YouTube?action=playVideo&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DUwb8ZWLvR14&detail_id=v1-ytb-129951136940697293&mode=mivideo&path=local&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&report={\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"129951136940697293\\\",\\\"playlist_id\\\":null,\\\"position\\\":3,\\\"exp\\\":\\\"v1\\\"}\"}&source=local_gallery&ref=LOCALRECOMM","cp":"ytb","position":2,"searchGenre":"Other","network":0,"click":false,"top":false,"item_id":"129951136940697293","item_type":"shortvideo","item_style":101,"source_item_id":"V-ytb-Uwb8ZWLvR14","image_url":"https://i.ytimg.com/vi/Uwb8ZWLvR14/maxresdefault.jpg","sub_title":"","author_id":129951126979356791,"target_report":["mv://LogMivideo?event=VIEW","mv://LogMivideo?event=CLICK"],"view_count":18788776,"view_count_text":"19M Views","view_count_transform":"19M","gmt_publish":1565432020000,"gmt_publish_text":"1 year ago","video_status":1,"video_category":"Education","video_category_code":2030,"share":true,"channel_type":0},{"title":"Crushing Crunchy & Soft Things by Car! EXPERIMENT: Car vs Slime Piping Bags 2","language":"english","year":"","duration":114,"target":"mv://YouTube?action=playVideo&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3Dpp6zCGX4nyo&detail_id=v1-ytb-159718530772767035&mode=mivideo&path=local&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&report={\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"159718530772767035\\\",\\\"playlist_id\\\":null,\\\"position\\\":4,\\\"exp\\\":\\\"v1\\\"}\"}&source=local_gallery&ref=LOCALRECOMM","cp":"ytb","position":3,"searchGenre":"Other","network":0,"click":false,"top":false,"item_id":"159718530772767035","item_type":"shortvideo","item_style":101,"source_item_id":"V-ytb-pp6zCGX4nyo","image_url":"https://i.ytimg.com/vi/pp6zCGX4nyo/maxresdefault.jpg","sub_title":"","author_id":158100359418748984,"target_report":["mv://LogMivideo?event=VIEW","mv://LogMivideo?event=CLICK"],"view_count":295034,"view_count_text":"295K Views","view_count_transform":"295K","gmt_publish":1599942195000,"gmt_publish_text":"20 days ago","video_status":1,"video_category":"Entertainment","video_category_code":2005,"share":true,"channel_type":0},{"title":"PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak","description":"PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak\n\nVidio ini hanyalah hiburan untuk menghibur kalian semua\nJika kalian suka, Komentar di Bawah, Gimana Vidio ini menurut kalian\n\nSubscribe Channel ini jika kalian suka Vidio\" nya : Idul Syahputra\n\n#OrangGila #PrankOrangGila\n\nFollow juga Instagram aku :Idul Syahputra\nSemoga kita bisa berteman baik 🙏\n\n\nTerimakasih 😘","language":"english","year":"","duration":430,"target":"mv://VideoShort?url=entity%2Fv1-cms-92206192528594419&path=local&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&report={\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"92206192528594419\\\",\\\"playlist_id\\\":null,\\\"position\\\":5,\\\"exp\\\":\\\"v1\\\"}\"}&source=local_gallery&ref=LOCALRECOMM","cp":"cms","position":4,"searchGenre":"Other","network":0,"click":false,"top":false,"item_id":"92206192528594419","item_type":"shortvideo","item_style":101,"source_item_id":"V-ytb-E1UuX1osI-U","image_url":"https://i.ytimg.com/vi/E1UuX1osI-U/maxresdefault.jpg","sub_title":"","author_id":92206165962007986,"target_report":["mv://LogMivideo?event=VIEW","mv://LogMivideo?event=CLICK"],"view_count":6306527,"view_count_text":"6.3M Views","view_count_transform":"6.3M","gmt_publish":1581071698000,"gmt_publish_text":"7 months ago","video_status":1,"video_category":"Comedy","video_category_code":2020,"share":true,"channel_type":0},{"title":"Tayo English Episodes l Who is the boss of the garage? l Tayo the Little Bus","language":"english","year":"2020","duration":2047,"target":"mv://YouTube?action=playVideo&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DvVXPW8GyeqU&detail_id=v1-ytb-166387918347315602&mode=mivideo&path=local&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&report={\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"166387918347315602\\\",\\\"playlist_id\\\":null,\\\"position\\\":6,\\\"exp\\\":\\\"v1\\\"}\"}&source=local_gallery&ref=LOCALRECOMM","cp":"ytb","position":5,"searchGenre":"Other","network":0,"click":false,"top":false,"item_id":"166387918347315602","item_type":"shortvideo","item_style":101,"source_item_id":"V-ytb-vVXPW8GyeqU","image_url":"https://i.ytimg.com/vi/vVXPW8GyeqU/maxresdefault.jpg","sub_title":"","author_id":51228654897995192,"target_report":["mv://LogMivideo?event=VIEW","mv://LogMivideo?event=CLICK"],"view_count":782025,"view_count_text":"782K Views","view_count_transform":"782K","gmt_publish":1590867362000,"gmt_publish_text":"4 months ago","video_status":1,"video_category":"Kids","video_category_code":2016,"share":true,"channel_type":0},{"title":"Experiment: Coca Cola and Lava Underground!","language":"english","year":"2020","duration":611,"target":"mv://YouTube?action=playVideo&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DP97_drPqSqI&detail_id=v1-ytb-166482939494929587&mode=mivideo&path=local&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&report={\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"166482939494929587\\\",\\\"playlist_id\\\":null,\\\"position\\\":7,\\\"exp\\\":\\\"v1\\\"}\"}&source=local_gallery&ref=LOCALRECOMM","cp":"ytb","position":6,"searchGenre":"Other","network":0,"click":false,"top":false,"item_id":"166482939494929587","item_type":"shortvideo","item_style":101,"source_item_id":"V-ytb-P97_drPqSqI","image_url":"https://i.ytimg.com/vi/P97_drPqSqI/maxresdefault.jpg","sub_title":"","author_id":51228654839275000,"target_report":["mv://LogMivideo?event=VIEW","mv://LogMivideo?event=CLICK"],"view_count":10603317,"view_count_text":"11M Views","view_count_transform":"11M","gmt_publish":1582936508000,"gmt_publish_text":"7 months ago","video_status":1,"video_category":"Entertainment","video_category_code":2005,"share":true,"channel_type":0},{"title":"Jangan Salah Paham! Inilah 50-an Foto yang Bisa Membuat Anda Bingung Saat Pertama Kali Melihatnya!","language":"english","year":"","duration":591,"target":"mv://YouTube?action=playVideo&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3Du9W5KA69Owk&detail_id=v1-ytb-165432659647014974&mode=mivideo&path=local&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&report={\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"165432659647014974\\\",\\\"playlist_id\\\":null,\\\"position\\\":8,\\\"exp\\\":\\\"v1\\\"}\"}&source=local_gallery&ref=LOCALRECOMM","cp":"ytb","position":7,"searchGenre":"Other","network":0,"click":false,"top":false,"item_id":"165432659647014974","item_type":"shortvideo","item_style":101,"source_item_id":"V-ytb-u9W5KA69Owk","image_url":"https://i.ytimg.com/vi/u9W5KA69Owk/maxresdefault.jpg","sub_title":"","author_id":73716835077596444,"target_report":["mv://LogMivideo?event=VIEW","mv://LogMivideo?event=CLICK"],"view_count":989127,"view_count_text":"989K Views","view_count_transform":"989K","gmt_publish":1601233076000,"gmt_publish_text":"5 days ago","video_status":1,"video_category":"Viral","video_category_code":2025,"share":true,"channel_type":0},{"title":"Watch More on Mi Video","target":"mv://Main?action=TAB_TRENDING&url=feed/op-home&source=local&ref=LOCALRECOMM","network":0,"click":false,"top":false,"item_id":"local_diversion_logo","image_url":"https://alsgp0-fds.api.xiaomi.net/gmivideo-api-resources/icon/logo2.png","share":false,"channel_type":0}],"row_type":"videos_horizontal_image"}]}]}}
+
+
+
+2020-10-03 07:56:46	DEBUG	com.miui.videoplayer	[ RecommendDataUtils ]  onNext [TinyCardEntity[baseId=0][title = UPIN IPIN - PERANGI RASUAH (By COMMED)], TinyCardEntity[baseId=0][title = VIDEO LUCU BIKIN NGAKAK WARGA +62 PART 14], TinyCardEntity[baseId=0][title = Lima bayi kecil | sajak untuk anak-anak | lagu di indonesia | Songs for Babies | Five little Babies], TinyCardEntity[baseId=0][title = Crushing Crunchy & Soft Things by Car! EXPERIMENT: Car vs Slime Piping Bags 2], TinyCardEntity[baseId=0][title = PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak], TinyCardEntity[baseId=0][title = Tayo English Episodes l Who is the boss of the garage? l Tayo the Little Bus], TinyCardEntity[baseId=0][title = Experiment: Coca Cola and Lava Underground!], TinyCardEntity[baseId=0][title = Jangan Salah Paham! Inilah 50-an Foto yang Bisa Membuat Anda Bingung Saat Pertama Kali Melihatnya!], TinyCardEntity[baseId=0][title = Watch More on Mi Video]]
+2020-10-03 07:56:46	DEBUG	com.miui.videoplayer	[ RecommendDataUtils ] onComplete mDataList:  9
+2020-10-03 07:56:46	DEBUG	com.miui.videoplayer	[ RecommendDataUtils ] onComplete filteredData:  9
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ RecommendUtils ] 推荐视频本地开关 true
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ RecommendUtils ] isFromExternal = true
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ RecommendUtils ] dailyShowTimes = 0
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlShowTimes = 100
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ RecommendUtils ] dailyClickTimes = 0
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlNonClickTimes = 100
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ RecommendUtils ] currentTime = 1601686610177
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ RecommendUtils ] lastShowTime = 1601686605498
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlShowTimeInterval = 1000
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Paused com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@3960576
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ FrameworkApplication ] onActivityCreated com.miui.video.player.service.recommend.RecommendVideoActivity@48f17fdcreatedCount = 2 listener.size = 1
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Created com.miui.video.player.service.recommend.RecommendVideoActivity@48f17fd
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] onOnlineActivityCreated com.miui.video.player.service.recommend.RecommendVideoActivity@48f17fdcreatedCount = 1
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken threadpool-io-4
+2020-10-03 07:56:50	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"english","st":"","_page":"RecommendVideoActivity","_miui":"V11","module":"main_page","_ver":"2020042900(MiVideo-GROM)","_anoyid":"8635b58e-e970-4fbd-bb0b-9212bf51cf5e","source":"self_start","_region":"ID","_res":"hd1080","_device":"merlin","_miuiver":"V11.0.2.0.QJOIDXM","ref":"com.miui.videoplayer","_appver":"2020042930","_nettype":"1","_andver":"29","_model":"M2003J15SC","event":"online_start_up","_plyver":"20190604","_ismiui":"1","append":"{\"is_first\":\"no\"}","_locale":"in_ID","_ts":"1601686610"}
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ RecommendVideoActivity ] 2 Oktober 2020 - gallery - /storage/emulated/0/Download/DownloaderForTwitter/Page-😜_20201002_3.mp4 - null
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ RecommendVideoActivity ] ReplayCallback  getVideoTitle mVideoTitle ==
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ RecommendAdapter ]  setData [TinyCardEntity[baseId=0][title = VIDEO LUCU BIKIN NGAKAK WARGA +62 PART 14], TinyCardEntity[baseId=0][title = Lima bayi kecil | sajak untuk anak-anak | lagu di indonesia | Songs for Babies | Five little Babies], TinyCardEntity[baseId=0][title = UPIN IPIN - PERANGI RASUAH (By COMMED)], TinyCardEntity[baseId=0][title = Crushing Crunchy & Soft Things by Car! EXPERIMENT: Car vs Slime Piping Bags 2], TinyCardEntity[baseId=0][title = PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak], TinyCardEntity[baseId=0][title = Tayo English Episodes l Who is the boss of the garage? l Tayo the Little Bus], TinyCardEntity[baseId=0][title = Experiment: Coca Cola and Lava Underground!], TinyCardEntity[baseId=0][title = Jangan Salah Paham! Inilah 50-an Foto yang Bisa Membuat Anda Bingung Saat Pertama Kali Melihatnya!], TinyCardEntity[baseId=0][title = Watch More on Mi Video]]
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ StatisticsUtils2 ] reportEventStatistics local_diversion_expose --- {}
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ StatisticsUtils2 ] runStatistics : eventKey =  local_diversion_expose params = {}
+2020-10-03 07:56:50	WARN	com.miui.videoplayer	[ RecommendVideoActivity ] showController
+
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken StatisticsUtils2
+2020-10-03 07:56:50	WARN	com.miui.videoplayer	[ RecommendVideoActivity ]  setBottomPadding 0 - 0 - 0 - 130
+
+2020-10-03 07:56:50	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"english","st":"","_page":"RecommendVideoActivity","_miui":"V11","module":"local_diversion","_ver":"2020042900(MiVideo-GROM)","_anoyid":"8635b58e-e970-4fbd-bb0b-9212bf51cf5e","source":"gallery","_region":"ID","_res":"hd1080","_device":"merlin","_miuiver":"V11.0.2.0.QJOIDXM","ref":"com.miui.videoplayer","_appver":"2020042930","_nettype":"1","_andver":"29","_model":"M2003J15SC","event":"local_diversion_expose","_plyver":"20190604","_ismiui":"1","_locale":"in_ID","_ts":"1601686610"}
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ FrameworkApplication ] onActivityStarted com.miui.video.player.service.recommend.RecommendVideoActivity@48f17fdstartedCount = 2
+2020-10-03 07:56:50	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Resumed com.miui.video.player.service.recommend.RecommendVideoActivity@48f17fd
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ RecommendVideoActivity ] handleBack 
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Paused com.miui.video.player.service.recommend.RecommendVideoActivity@48f17fd
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ RecommendVideoContainer ]    onUIShow
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ RecommendVideoContainer ]  onUIShow : 00 - TinyCardEntity[baseId=0][title = VIDEO LUCU BIKIN NGAKAK WARGA +62 PART 14]
+2020-10-03 07:56:51	DEBUG	StatisticsUtils	[ addStatistics ] STATISTICS_ACTION= ACTION_SHOW  obj= TinyCardEntity[baseId=0][title = VIDEO LUCU BIKIN NGAKAK WARGA +62 PART 14]
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ WidgetEventDispatcher ] onViewStatistics(), item:TinyCardEntity[baseId=0][title = VIDEO LUCU BIKIN NGAKAK WARGA +62 PART 14], additions: null, position = 0
+2020-10-03 07:56:51	DEBUG	WidgetEventDispatcher	[ dispatch ] VIEW{ itemData=TinyCardEntity[baseId=0][title = VIDEO LUCU BIKIN NGAKAK WARGA +62 PART 14], parameters=[	com.miui.video.framework.uri.LinkEntity@e310422
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@e6d4eb3
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ RecommendVideoContainer ]  onUIShow : 01 - TinyCardEntity[baseId=0][title = Lima bayi kecil | sajak untuk anak-anak | lagu di indonesia | Songs for Babies | Five little Babies]
+2020-10-03 07:56:51	DEBUG	StatisticsUtils	[ addStatistics ] STATISTICS_ACTION= ACTION_SHOW  obj= TinyCardEntity[baseId=0][title = Lima bayi kecil | sajak untuk anak-anak | lagu di indonesia | Songs for Babies | Five little Babies]
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ WidgetEventDispatcher ] onViewStatistics(), item:TinyCardEntity[baseId=0][title = Lima bayi kecil | sajak untuk anak-anak | lagu di indonesia | Songs for Babies | Five little Babies], additions: null, position = 1
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ WidgetEventDispatcher ] VIEW{ itemData=TinyCardEntity[baseId=0][title = VIDEO LUCU BIKIN NGAKAK WARGA +62 PART 14], parameters=[	com.miui.video.framework.uri.LinkEntity@e310422
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@e6d4eb3
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ LogMivideo ] VIEW{ itemData=TinyCardEntity[baseId=0][title = VIDEO LUCU BIKIN NGAKAK WARGA +62 PART 14], parameters=[	com.miui.video.framework.uri.LinkEntity@e310422
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@e6d4eb3
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:56:51	DEBUG	WidgetEventDispatcher	[ dispatch ] VIEW{ itemData=TinyCardEntity[baseId=0][title = Lima bayi kecil | sajak untuk anak-anak | lagu di indonesia | Songs for Babies | Five little Babies], parameters=[	com.miui.video.framework.uri.LinkEntity@3f73c70
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@34f0be9
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ RecommendVideoContainer ]  onUIShow : 02 - TinyCardEntity[baseId=0][title = UPIN IPIN - PERANGI RASUAH (By COMMED)]
+2020-10-03 07:56:51	DEBUG	StatisticsUtils	[ addStatistics ] STATISTICS_ACTION= ACTION_SHOW  obj= TinyCardEntity[baseId=0][title = UPIN IPIN - PERANGI RASUAH (By COMMED)]
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ WidgetEventDispatcher ] onViewStatistics(), item:TinyCardEntity[baseId=0][title = UPIN IPIN - PERANGI RASUAH (By COMMED)], additions: null, position = 2
+2020-10-03 07:56:51	DEBUG	WidgetEventDispatcher	[ dispatch ] VIEW{ itemData=TinyCardEntity[baseId=0][title = UPIN IPIN - PERANGI RASUAH (By COMMED)], parameters=[	com.miui.video.framework.uri.LinkEntity@d7f406e
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@7e4230f
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ LogMivideo ] report view event
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken UIEventDispatcher-video
+2020-10-03 07:56:51	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"english","st":"","_page":"RecommendVideoActivity","_miui":"V11","_ver":"2020042900(MiVideo-GROM)","_anoyid":"8635b58e-e970-4fbd-bb0b-9212bf51cf5e","_region":"ID","_res":"hd1080","_device":"merlin","target":"mv://YouTube?action\u003dplayVideo\u0026default\u003dmv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DDuR_NvhB0UE\u0026detail_id\u003dv1-ytb-166388937252806565\u0026mode\u003dmivideo\u0026path\u003dlocal\u0026back_scheme\u003dmv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026report\u003d{\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"166388937252806565\\\",\\\"playlist_id\\\":null,\\\"position\\\":2,\\\"exp\\\":\\\"v1\\\"}\"}\u0026source\u003dlocal_gallery\u0026ref\u003dLOCALRECOMM","_miuiver":"V11.0.2.0.QJOIDXM","ref":"com.miui.videoplayer","at":"1601686611841","_appver":"2020042930","_nettype":"1","_andver":"29","_model":"M2003J15SC","event":"VIEW","_plyver":"20190604","_ismiui":"1","_locale":"in_ID","_ts":"1601686611"}
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ LogMivideo ] VIEW{ itemData=TinyCardEntity[baseId=0][title = VIDEO LUCU BIKIN NGAKAK WARGA +62 PART 14], parameters=[	com.miui.video.framework.uri.LinkEntity@e310422
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@e6d4eb3
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ LogMivideo ] Not report view event
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ WidgetEventDispatcher ] VIEW{ itemData=TinyCardEntity[baseId=0][title = Lima bayi kecil | sajak untuk anak-anak | lagu di indonesia | Songs for Babies | Five little Babies], parameters=[	com.miui.video.framework.uri.LinkEntity@3f73c70
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@34f0be9
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ LogMivideo ] VIEW{ itemData=TinyCardEntity[baseId=0][title = Lima bayi kecil | sajak untuk anak-anak | lagu di indonesia | Songs for Babies | Five little Babies], parameters=[	com.miui.video.framework.uri.LinkEntity@3f73c70
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@34f0be9
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ LogMivideo ] report view event
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken UIEventDispatcher-video
+2020-10-03 07:56:51	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"english","st":"","_page":"RecommendVideoActivity","_miui":"V11","_ver":"2020042900(MiVideo-GROM)","_anoyid":"8635b58e-e970-4fbd-bb0b-9212bf51cf5e","_region":"ID","_res":"hd1080","_device":"merlin","target":"mv://YouTube?action\u003dplayVideo\u0026default\u003dmv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DUwb8ZWLvR14\u0026detail_id\u003dv1-ytb-129951136940697293\u0026mode\u003dmivideo\u0026path\u003dlocal\u0026back_scheme\u003dmv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026report\u003d{\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"129951136940697293\\\",\\\"playlist_id\\\":null,\\\"position\\\":3,\\\"exp\\\":\\\"v1\\\"}\"}\u0026source\u003dlocal_gallery\u0026ref\u003dLOCALRECOMM","_miuiver":"V11.0.2.0.QJOIDXM","ref":"com.miui.videoplayer","at":"1601686611857","_appver":"2020042930","_nettype":"1","_andver":"29","_model":"M2003J15SC","event":"VIEW","_plyver":"20190604","_ismiui":"1","_locale":"in_ID","_ts":"1601686611"}
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ LogMivideo ] VIEW{ itemData=TinyCardEntity[baseId=0][title = Lima bayi kecil | sajak untuk anak-anak | lagu di indonesia | Songs for Babies | Five little Babies], parameters=[	com.miui.video.framework.uri.LinkEntity@3f73c70
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@34f0be9
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ LogMivideo ] Not report view event
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ WidgetEventDispatcher ] VIEW{ itemData=TinyCardEntity[baseId=0][title = UPIN IPIN - PERANGI RASUAH (By COMMED)], parameters=[	com.miui.video.framework.uri.LinkEntity@d7f406e
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@7e4230f
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ LogMivideo ] VIEW{ itemData=TinyCardEntity[baseId=0][title = UPIN IPIN - PERANGI RASUAH (By COMMED)], parameters=[	com.miui.video.framework.uri.LinkEntity@d7f406e
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@7e4230f
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ LogMivideo ] report view event
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken UIEventDispatcher-video
+2020-10-03 07:56:51	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"english","st":"","_page":"RecommendVideoActivity","_miui":"V11","_ver":"2020042900(MiVideo-GROM)","_anoyid":"8635b58e-e970-4fbd-bb0b-9212bf51cf5e","_region":"ID","_res":"hd1080","_device":"merlin","target":"mv://YouTube?action\u003dplayVideo\u0026default\u003dmv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DXitCIV_7hdQ\u0026detail_id\u003dv1-ytb-166387833609788576\u0026mode\u003dmivideo\u0026path\u003dlocal\u0026back_scheme\u003dmv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026report\u003d{\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"166387833609788576\\\",\\\"playlist_id\\\":null,\\\"position\\\":1,\\\"exp\\\":\\\"v1\\\"}\"}\u0026source\u003dlocal_gallery\u0026ref\u003dLOCALRECOMM","_miuiver":"V11.0.2.0.QJOIDXM","ref":"com.miui.videoplayer","at":"1601686611879","_appver":"2020042930","_nettype":"1","_andver":"29","_model":"M2003J15SC","event":"VIEW","_plyver":"20190604","_ismiui":"1","_locale":"in_ID","_ts":"1601686611"}
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ LogMivideo ] VIEW{ itemData=TinyCardEntity[baseId=0][title = UPIN IPIN - PERANGI RASUAH (By COMMED)], parameters=[	com.miui.video.framework.uri.LinkEntity@d7f406e
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@7e4230f
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ LogMivideo ] Not report view event
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ FrameworkApplication ] onActivityStopped com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@3960576startedCount = 1
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Destroy com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@3960576
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ FrameworkApplication ] onActivityStopped com.miui.video.player.service.recommend.RecommendVideoActivity@48f17fdstartedCount = 0
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ FrameworkApplication ] App On Background
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on App Background : com.miui.video.player.service.recommend.RecommendVideoActivity@48f17fd
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Destroy com.miui.video.player.service.recommend.RecommendVideoActivity@48f17fd
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] onOnlineActivityDestoryed com.miui.video.player.service.recommend.RecommendVideoActivity@48f17fdcreatedCount = 0
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Process Exit : com.miui.video.player.service.recommend.RecommendVideoActivity@48f17fd
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ videocache:VideoCacheManager ] clearCache
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken threadpool-io-5
+2020-10-03 07:56:51	INFO	com.miui.videoplayer	[ HttpProxyCacheServer ] Shutdown proxy server
+2020-10-03 07:56:51	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:51	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"english","st":"","_page":"RecommendVideoActivity","_miui":"V11","module":"main_page","_ver":"2020042900(MiVideo-GROM)","_anoyid":"8635b58e-e970-4fbd-bb0b-9212bf51cf5e","source":"online_start","_region":"ID","_res":"hd1080","_device":"merlin","_miuiver":"V11.0.2.0.QJOIDXM","ref":"com.miui.videoplayer","_appver":"2020042930","_nettype":"1","_andver":"29","_model":"M2003J15SC","event":"online_exit_quit","_plyver":"20190604","_ismiui":"1","append":"{\"time\":\"967\"}","_locale":"in_ID","_ts":"1601686611"}
+2020-10-03 07:56:55	DEBUG	com.miui.videoplayer	[ FrameworkApplication ] onActivityCreated com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@8902293createdCount = 1 listener.size = 1
+2020-10-03 07:56:55	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Created com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@8902293
+2020-10-03 07:56:55	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Process Startcom.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@8902293
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ FrameworkApplication ] onActivityStarted com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@8902293startedCount = 1
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ FrameworkApplication ] App On Foreground : listener.size = 1
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on App Foregroundcom.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@8902293
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Resumed com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@8902293
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ StatisticsUtils2 ] reportEventStatistics gallery_play_start --- {location=0}
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ StatisticsUtils2 ] reportEventStatistics gallery_play_start --- {location=0}
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ StatisticsUtils2 ] runStatistics : eventKey =  gallery_play_start params = {location=0}
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken StatisticsUtils2
+2020-10-03 07:56:56	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"english","st":"","_page":"FrameLocalPlayActivity","_miui":"V11","_ver":"2020042900(MiVideo-GROM)","_anoyid":"8635b58e-e970-4fbd-bb0b-9212bf51cf5e","_region":"ID","_res":"hd1080","_device":"merlin","_miuiver":"V11.0.2.0.QJOIDXM","ref":"com.miui.videoplayer","_appver":"2020042930","_nettype":"1","_andver":"29","_model":"M2003J15SC","event":"gallery_play_start","_plyver":"20190604","_ismiui":"1","append":"{\"location\":\"0\"}","_locale":"in_ID","_ts":"1601686616"}
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ StatisticsUtils2 ] runStatistics : eventKey =  gallery_play_start params = {location=0}
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken StatisticsUtils2
+2020-10-03 07:56:56	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"english","st":"","_page":"FrameLocalPlayActivity","_miui":"V11","_ver":"2020042900(MiVideo-GROM)","_anoyid":"8635b58e-e970-4fbd-bb0b-9212bf51cf5e","_region":"ID","_res":"hd1080","_device":"merlin","_miuiver":"V11.0.2.0.QJOIDXM","ref":"com.miui.videoplayer","_appver":"2020042930","_nettype":"1","_andver":"29","_model":"M2003J15SC","event":"gallery_play_start","_plyver":"20190604","_ismiui":"1","append":"{\"location\":\"0\"}","_locale":"in_ID","_ts":"1601686616"}
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ RecommendUtils ] 推荐视频本地开关 true
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ RecommendUtils ] isFromExternal = true
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ RecommendUtils ] dailyShowTimes = 0
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlShowTimes = 100
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ RecommendUtils ] dailyClickTimes = 0
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlNonClickTimes = 100
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ RecommendUtils ] currentTime = 1601686616742
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ RecommendUtils ] lastShowTime = 1601686610178
+2020-10-03 07:56:56	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlShowTimeInterval = 1000
+2020-10-03 07:56:57	DEBUG	com.miui.videoplayer	[ RecommendDataUtils ] lastType : 
+2020-10-03 07:56:57	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:57	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken RxCachedThreadScheduler-2
+2020-10-03 07:56:57	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:57	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:57	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:57	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:57	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:57	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:57	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken RxCachedThreadScheduler-2
+2020-10-03 07:56:57	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:57	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] --->>> GET   https://id.video.intl.xiaomi.com/api2/local/diversion?version=v2&is_from_gallery=true&videoCategory=&_sdevid=8635b58e-e970-4fbd-bb0b-9212bf51cf5e&_miui=V11&_miuiver=V11.0.2.0.QJOIDXM&_andver=29&_model=M2003J15SC&_device=merlin&_locale=in_ID&_region=ID&_appver=2020042930&_ismiui=1&_anoyid=8635b58e-e970-4fbd-bb0b-9212bf51cf5e&_language=english&ref=com.miui.videoplayer&fcmToken=cWh3Z_QRabA%3AAPA91bGWTWIANWLDNa9bXyg5LfsjW4nKlmJ_iQ7WM4HN5pCons9blxT7eKcBGTJU9ZkO-rxoLKfu-OzP2DBI2vnVN0ya4kFWxzC7fywztCQwRkBvS9iVtHtGADZpaUJsxcLeefG-Z5V4&_gaid=7c39238f-a93e-4e5f-bf24-e4db683173b7&_personalized=true&_res=hd1080&_nonce=-882513129&_ts=1601686617&_ver=2020042900%28MiVideo-GROM%29&_devtype=1&_version=stable&_nettype=1&_uspace=0&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db&st=  http/1.1  header_params--->>>st : 
+Request Body is null
+
+2020-10-03 07:56:57	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackDev : map = {"net_event_flag":"https://id.video.intl.xiaomi.com/api2/local/diversion","net_event_result_type":"0","net_event_requeststarttime":"43","net_event_statuscode":"1","net_event_retrycount":"0","event":"event_type_net","net_event_responsecode":"200"}
+2020-10-03 07:56:57	DEBUG	com.miui.videoplayer	[ HttpIntercepter ] <<<--- Response base info : 200  https://id.video.intl.xiaomi.com/api2/local/diversion?version=v2&is_from_gallery=true&videoCategory=&_sdevid=8635b58e-e970-4fbd-bb0b-9212bf51cf5e&_miui=V11&_miuiver=V11.0.2.0.QJOIDXM&_andver=29&_model=M2003J15SC&_device=merlin&_locale=in_ID&_region=ID&_appver=2020042930&_ismiui=1&_anoyid=8635b58e-e970-4fbd-bb0b-9212bf51cf5e&_language=english&ref=com.miui.videoplayer&fcmToken=cWh3Z_QRabA%3AAPA91bGWTWIANWLDNa9bXyg5LfsjW4nKlmJ_iQ7WM4HN5pCons9blxT7eKcBGTJU9ZkO-rxoLKfu-OzP2DBI2vnVN0ya4kFWxzC7fywztCQwRkBvS9iVtHtGADZpaUJsxcLeefG-Z5V4&_gaid=7c39238f-a93e-4e5f-bf24-e4db683173b7&_personalized=true&_res=hd1080&_nonce=-882513129&_ts=1601686617&_ver=2020042900%28MiVideo-GROM%29&_devtype=1&_version=stable&_nettype=1&_uspace=0&_app_coop_md5=0645726b2543e19f772d6a2a72aab1db&st= unknown bytes size
+<<<--- {"result":1,"msg":"OK","sys_time":1601686355114,"data":{"card_list":[{"row_list":[{"item_list":[{"title":"UPIN IPIN - PERANGI RASUAH (By COMMED)","language":"english","year":"2015","duration":1162,"target":"mv://YouTube?action=playVideo&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DXitCIV_7hdQ&detail_id=v1-ytb-166387833609788576&mode=mivideo&path=local&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&report={\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"166387833609788576\\\",\\\"playlist_id\\\":null,\\\"position\\\":1,\\\"exp\\\":\\\"v1\\\"}\"}&source=local_gallery&ref=LOCALRECOMM","cp":"ytb","position":0,"searchGenre":"Other","network":0,"click":false,"top":false,"item_id":"166387833609788576","item_type":"shortvideo","item_style":101,"source_item_id":"V-ytb-XitCIV_7hdQ","image_url":"https://i.ytimg.com/vi/XitCIV_7hdQ/maxresdefault.jpg","sub_title":"","author_id":51228654897995192,"target_report":["mv://LogMivideo?event=VIEW","mv://LogMivideo?event=CLICK"],"view_count":39307605,"view_count_text":"39M Views","view_count_transform":"39M","gmt_publish":1422453815000,"gmt_publish_text":"5 years ago","video_status":1,"video_category":"Kids","video_category_code":2016,"share":true,"channel_type":0},{"title":"VIDEO LUCU BIKIN NGAKAK WARGA +62 PART 14","language":"english","year":"2020","duration":609,"target":"mv://YouTube?action=playVideo&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DDuR_NvhB0UE&detail_id=v1-ytb-166388937252806565&mode=mivideo&path=local&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&report={\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"166388937252806565\\\",\\\"playlist_id\\\":null,\\\"position\\\":2,\\\"exp\\\":\\\"v1\\\"}\"}&source=local_gallery&ref=LOCALRECOMM","cp":"ytb","position":1,"searchGenre":"Other","network":0,"click":false,"top":false,"item_id":"166388937252806565","item_type":"shortvideo","item_style":101,"source_item_id":"V-ytb-DuR_NvhB0UE","image_url":"https://i.ytimg.com/vi/DuR_NvhB0UE/maxresdefault.jpg","sub_title":"","author_id":51228654747003765,"target_report":["mv://LogMivideo?event=VIEW","mv://LogMivideo?event=CLICK"],"view_count":418619,"view_count_text":"419K Views","view_count_transform":"419K","gmt_publish":1598713493000,"gmt_publish_text":"1 month ago","video_status":1,"video_category":"Comedy","video_category_code":2020,"share":true,"channel_type":0},{"title":"Lima bayi kecil | sajak untuk anak-anak | lagu di indonesia | Songs for Babies | Five little Babies","language":"english","year":"","duration":1819,"target":"mv://YouTube?action=playVideo&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DUwb8ZWLvR14&detail_id=v1-ytb-129951136940697293&mode=mivideo&path=local&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&report={\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"129951136940697293\\\",\\\"playlist_id\\\":null,\\\"position\\\":3,\\\"exp\\\":\\\"v1\\\"}\"}&source=local_gallery&ref=LOCALRECOMM","cp":"ytb","position":2,"searchGenre":"Other","network":0,"click":false,"top":false,"item_id":"129951136940697293","item_type":"shortvideo","item_style":101,"source_item_id":"V-ytb-Uwb8ZWLvR14","image_url":"https://i.ytimg.com/vi/Uwb8ZWLvR14/maxresdefault.jpg","sub_title":"","author_id":129951126979356791,"target_report":["mv://LogMivideo?event=VIEW","mv://LogMivideo?event=CLICK"],"view_count":18788776,"view_count_text":"19M Views","view_count_transform":"19M","gmt_publish":1565432020000,"gmt_publish_text":"1 year ago","video_status":1,"video_category":"Education","video_category_code":2030,"share":true,"channel_type":0},{"title":"Crushing Crunchy & Soft Things by Car! EXPERIMENT: Car vs Slime Piping Bags 2","language":"english","year":"","duration":114,"target":"mv://YouTube?action=playVideo&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3Dpp6zCGX4nyo&detail_id=v1-ytb-159718530772767035&mode=mivideo&path=local&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&report={\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"159718530772767035\\\",\\\"playlist_id\\\":null,\\\"position\\\":4,\\\"exp\\\":\\\"v1\\\"}\"}&source=local_gallery&ref=LOCALRECOMM","cp":"ytb","position":3,"searchGenre":"Other","network":0,"click":false,"top":false,"item_id":"159718530772767035","item_type":"shortvideo","item_style":101,"source_item_id":"V-ytb-pp6zCGX4nyo","image_url":"https://i.ytimg.com/vi/pp6zCGX4nyo/maxresdefault.jpg","sub_title":"","author_id":158100359418748984,"target_report":["mv://LogMivideo?event=VIEW","mv://LogMivideo?event=CLICK"],"view_count":295034,"view_count_text":"295K Views","view_count_transform":"295K","gmt_publish":1599942195000,"gmt_publish_text":"20 days ago","video_status":1,"video_category":"Entertainment","video_category_code":2005,"share":true,"channel_type":0},{"title":"PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak","description":"PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak\n\nVidio ini hanyalah hiburan untuk menghibur kalian semua\nJika kalian suka, Komentar di Bawah, Gimana Vidio ini menurut kalian\n\nSubscribe Channel ini jika kalian suka Vidio\" nya : Idul Syahputra\n\n#OrangGila #PrankOrangGila\n\nFollow juga Instagram aku :Idul Syahputra\nSemoga kita bisa berteman baik 🙏\n\n\nTerimakasih 😘","language":"english","year":"","duration":430,"target":"mv://VideoShort?url=entity%2Fv1-cms-92206192528594419&path=local&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&report={\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"92206192528594419\\\",\\\"playlist_id\\\":null,\\\"position\\\":5,\\\"exp\\\":\\\"v1\\\"}\"}&source=local_gallery&ref=LOCALRECOMM","cp":"cms","position":4,"searchGenre":"Other","network":0,"click":false,"top":false,"item_id":"92206192528594419","item_type":"shortvideo","item_style":101,"source_item_id":"V-ytb-E1UuX1osI-U","image_url":"https://i.ytimg.com/vi/E1UuX1osI-U/maxresdefault.jpg","sub_title":"","author_id":92206165962007986,"target_report":["mv://LogMivideo?event=VIEW","mv://LogMivideo?event=CLICK"],"view_count":6306527,"view_count_text":"6.3M Views","view_count_transform":"6.3M","gmt_publish":1581071698000,"gmt_publish_text":"7 months ago","video_status":1,"video_category":"Comedy","video_category_code":2020,"share":true,"channel_type":0},{"title":"Tayo English Episodes l Who is the boss of the garage? l Tayo the Little Bus","language":"english","year":"2020","duration":2047,"target":"mv://YouTube?action=playVideo&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DvVXPW8GyeqU&detail_id=v1-ytb-166387918347315602&mode=mivideo&path=local&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&report={\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"166387918347315602\\\",\\\"playlist_id\\\":null,\\\"position\\\":6,\\\"exp\\\":\\\"v1\\\"}\"}&source=local_gallery&ref=LOCALRECOMM","cp":"ytb","position":5,"searchGenre":"Other","network":0,"click":false,"top":false,"item_id":"166387918347315602","item_type":"shortvideo","item_style":101,"source_item_id":"V-ytb-vVXPW8GyeqU","image_url":"https://i.ytimg.com/vi/vVXPW8GyeqU/maxresdefault.jpg","sub_title":"","author_id":51228654897995192,"target_report":["mv://LogMivideo?event=VIEW","mv://LogMivideo?event=CLICK"],"view_count":782025,"view_count_text":"782K Views","view_count_transform":"782K","gmt_publish":1590867362000,"gmt_publish_text":"4 months ago","video_status":1,"video_category":"Kids","video_category_code":2016,"share":true,"channel_type":0},{"title":"Experiment: Coca Cola and Lava Underground!","language":"english","year":"2020","duration":611,"target":"mv://YouTube?action=playVideo&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DP97_drPqSqI&detail_id=v1-ytb-166482939494929587&mode=mivideo&path=local&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&report={\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"166482939494929587\\\",\\\"playlist_id\\\":null,\\\"position\\\":7,\\\"exp\\\":\\\"v1\\\"}\"}&source=local_gallery&ref=LOCALRECOMM","cp":"ytb","position":6,"searchGenre":"Other","network":0,"click":false,"top":false,"item_id":"166482939494929587","item_type":"shortvideo","item_style":101,"source_item_id":"V-ytb-P97_drPqSqI","image_url":"https://i.ytimg.com/vi/P97_drPqSqI/maxresdefault.jpg","sub_title":"","author_id":51228654839275000,"target_report":["mv://LogMivideo?event=VIEW","mv://LogMivideo?event=CLICK"],"view_count":10603317,"view_count_text":"11M Views","view_count_transform":"11M","gmt_publish":1582936508000,"gmt_publish_text":"7 months ago","video_status":1,"video_category":"Entertainment","video_category_code":2005,"share":true,"channel_type":0},{"title":"Jangan Salah Paham! Inilah 50-an Foto yang Bisa Membuat Anda Bingung Saat Pertama Kali Melihatnya!","language":"english","year":"","duration":591,"target":"mv://YouTube?action=playVideo&default=mv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3Du9W5KA69Owk&detail_id=v1-ytb-165432659647014974&mode=mivideo&path=local&back_scheme=mv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM&report={\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"165432659647014974\\\",\\\"playlist_id\\\":null,\\\"position\\\":8,\\\"exp\\\":\\\"v1\\\"}\"}&source=local_gallery&ref=LOCALRECOMM","cp":"ytb","position":7,"searchGenre":"Other","network":0,"click":false,"top":false,"item_id":"165432659647014974","item_type":"shortvideo","item_style":101,"source_item_id":"V-ytb-u9W5KA69Owk","image_url":"https://i.ytimg.com/vi/u9W5KA69Owk/maxresdefault.jpg","sub_title":"","author_id":73716835077596444,"target_report":["mv://LogMivideo?event=VIEW","mv://LogMivideo?event=CLICK"],"view_count":989127,"view_count_text":"989K Views","view_count_transform":"989K","gmt_publish":1601233076000,"gmt_publish_text":"5 days ago","video_status":1,"video_category":"Viral","video_category_code":2025,"share":true,"channel_type":0},{"title":"Watch More on Mi Video","target":"mv://Main?action=TAB_TRENDING&url=feed/op-home&source=local&ref=LOCALRECOMM","network":0,"click":false,"top":false,"item_id":"local_diversion_logo","image_url":"https://alsgp0-fds.api.xiaomi.net/gmivideo-api-resources/icon/logo2.png","share":false,"channel_type":0}],"row_type":"videos_horizontal_image"}]}]}}
+
+
+
+2020-10-03 07:56:57	DEBUG	com.miui.videoplayer	[ RecommendDataUtils ]  onNext [TinyCardEntity[baseId=0][title = UPIN IPIN - PERANGI RASUAH (By COMMED)], TinyCardEntity[baseId=0][title = VIDEO LUCU BIKIN NGAKAK WARGA +62 PART 14], TinyCardEntity[baseId=0][title = Lima bayi kecil | sajak untuk anak-anak | lagu di indonesia | Songs for Babies | Five little Babies], TinyCardEntity[baseId=0][title = Crushing Crunchy & Soft Things by Car! EXPERIMENT: Car vs Slime Piping Bags 2], TinyCardEntity[baseId=0][title = PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak], TinyCardEntity[baseId=0][title = Tayo English Episodes l Who is the boss of the garage? l Tayo the Little Bus], TinyCardEntity[baseId=0][title = Experiment: Coca Cola and Lava Underground!], TinyCardEntity[baseId=0][title = Jangan Salah Paham! Inilah 50-an Foto yang Bisa Membuat Anda Bingung Saat Pertama Kali Melihatnya!], TinyCardEntity[baseId=0][title = Watch More on Mi Video]]
+2020-10-03 07:56:57	DEBUG	com.miui.videoplayer	[ RecommendDataUtils ] onComplete mDataList:  9
+2020-10-03 07:56:57	DEBUG	com.miui.videoplayer	[ RecommendDataUtils ] onComplete filteredData:  9
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ RecommendUtils ] 推荐视频本地开关 true
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ RecommendUtils ] isFromExternal = true
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ RecommendUtils ] dailyShowTimes = 0
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlShowTimes = 100
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ RecommendUtils ] dailyClickTimes = 0
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlNonClickTimes = 100
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ RecommendUtils ] currentTime = 1601686619184
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ RecommendUtils ] lastShowTime = 1601686616742
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ RecommendUtils ] controlShowTimeInterval = 1000
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Paused com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@8902293
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ FrameworkApplication ] onActivityCreated com.miui.video.player.service.recommend.RecommendVideoActivity@38f4e0ecreatedCount = 2 listener.size = 1
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Created com.miui.video.player.service.recommend.RecommendVideoActivity@38f4e0e
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] onOnlineActivityCreated com.miui.video.player.service.recommend.RecommendVideoActivity@38f4e0ecreatedCount = 1
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken threadpool-io-6
+2020-10-03 07:56:59	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"english","st":"","_page":"RecommendVideoActivity","_miui":"V11","module":"main_page","_ver":"2020042900(MiVideo-GROM)","_anoyid":"8635b58e-e970-4fbd-bb0b-9212bf51cf5e","source":"self_start","_region":"ID","_res":"hd1080","_device":"merlin","_miuiver":"V11.0.2.0.QJOIDXM","ref":"com.miui.videoplayer","_appver":"2020042930","_nettype":"1","_andver":"29","_model":"M2003J15SC","event":"online_start_up","_plyver":"20190604","_ismiui":"1","append":"{\"is_first\":\"no\"}","_locale":"in_ID","_ts":"1601686619"}
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ RecommendVideoActivity ] 21 September 2020 - gallery - /storage/emulated/0/Download/DownloaderForTwitter/Nikki-Sorayama✨boobsnbutter-on-OnlyFans_20201002_1.mp4 - null
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ RecommendVideoActivity ] ReplayCallback  getVideoTitle mVideoTitle ==
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ RecommendAdapter ]  setData [TinyCardEntity[baseId=0][title = Tayo English Episodes l Who is the boss of the garage? l Tayo the Little Bus], TinyCardEntity[baseId=0][title = PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak], TinyCardEntity[baseId=0][title = Crushing Crunchy & Soft Things by Car! EXPERIMENT: Car vs Slime Piping Bags 2], TinyCardEntity[baseId=0][title = Experiment: Coca Cola and Lava Underground!], TinyCardEntity[baseId=0][title = UPIN IPIN - PERANGI RASUAH (By COMMED)], TinyCardEntity[baseId=0][title = VIDEO LUCU BIKIN NGAKAK WARGA +62 PART 14], TinyCardEntity[baseId=0][title = Lima bayi kecil | sajak untuk anak-anak | lagu di indonesia | Songs for Babies | Five little Babies], TinyCardEntity[baseId=0][title = Jangan Salah Paham! Inilah 50-an Foto yang Bisa Membuat Anda Bingung Saat Pertama Kali Melihatnya!], TinyCardEntity[baseId=0][title = Watch More on Mi Video]]
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ StatisticsUtils2 ] reportEventStatistics local_diversion_expose --- {}
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ StatisticsUtils2 ] runStatistics : eventKey =  local_diversion_expose params = {}
+2020-10-03 07:56:59	WARN	com.miui.videoplayer	[ RecommendVideoActivity ] showController
+
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken StatisticsUtils2
+2020-10-03 07:56:59	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:56:59	WARN	com.miui.videoplayer	[ RecommendVideoActivity ]  setBottomPadding 0 - 0 - 0 - 130
+
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"english","st":"","_page":"RecommendVideoActivity","_miui":"V11","module":"local_diversion","_ver":"2020042900(MiVideo-GROM)","_anoyid":"8635b58e-e970-4fbd-bb0b-9212bf51cf5e","source":"gallery","_region":"ID","_res":"hd1080","_device":"merlin","_miuiver":"V11.0.2.0.QJOIDXM","ref":"com.miui.videoplayer","_appver":"2020042930","_nettype":"1","_andver":"29","_model":"M2003J15SC","event":"local_diversion_expose","_plyver":"20190604","_ismiui":"1","_locale":"in_ID","_ts":"1601686619"}
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ FrameworkApplication ] onActivityStarted com.miui.video.player.service.recommend.RecommendVideoActivity@38f4e0estartedCount = 2
+2020-10-03 07:56:59	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Resumed com.miui.video.player.service.recommend.RecommendVideoActivity@38f4e0e
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ RecommendVideoContainer ]    onUIShow
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ RecommendVideoContainer ]  onUIShow : 00 - TinyCardEntity[baseId=0][title = Tayo English Episodes l Who is the boss of the garage? l Tayo the Little Bus]
+2020-10-03 07:57:00	DEBUG	StatisticsUtils	[ addStatistics ] STATISTICS_ACTION= ACTION_SHOW  obj= TinyCardEntity[baseId=0][title = Tayo English Episodes l Who is the boss of the garage? l Tayo the Little Bus]
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ WidgetEventDispatcher ] onViewStatistics(), item:TinyCardEntity[baseId=0][title = Tayo English Episodes l Who is the boss of the garage? l Tayo the Little Bus], additions: null, position = 0
+2020-10-03 07:57:00	DEBUG	WidgetEventDispatcher	[ dispatch ] VIEW{ itemData=TinyCardEntity[baseId=0][title = Tayo English Episodes l Who is the boss of the garage? l Tayo the Little Bus], parameters=[	com.miui.video.framework.uri.LinkEntity@bde97b5
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@afdee4a
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ RecommendVideoContainer ]  onUIShow : 01 - TinyCardEntity[baseId=0][title = PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak]
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ WidgetEventDispatcher ] VIEW{ itemData=TinyCardEntity[baseId=0][title = Tayo English Episodes l Who is the boss of the garage? l Tayo the Little Bus], parameters=[	com.miui.video.framework.uri.LinkEntity@bde97b5
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@afdee4a
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:57:00	DEBUG	StatisticsUtils	[ addStatistics ] STATISTICS_ACTION= ACTION_SHOW  obj= TinyCardEntity[baseId=0][title = PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak]
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ WidgetEventDispatcher ] onViewStatistics(), item:TinyCardEntity[baseId=0][title = PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak], additions: null, position = 1
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ LogMivideo ] VIEW{ itemData=TinyCardEntity[baseId=0][title = Tayo English Episodes l Who is the boss of the garage? l Tayo the Little Bus], parameters=[	com.miui.video.framework.uri.LinkEntity@bde97b5
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@afdee4a
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ LogMivideo ] report view event
+2020-10-03 07:57:00	DEBUG	WidgetEventDispatcher	[ dispatch ] VIEW{ itemData=TinyCardEntity[baseId=0][title = PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak], parameters=[	com.miui.video.framework.uri.LinkEntity@3f531bb
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@62f56d8
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ RecommendVideoContainer ]  onUIShow : 02 - TinyCardEntity[baseId=0][title = Crushing Crunchy & Soft Things by Car! EXPERIMENT: Car vs Slime Piping Bags 2]
+2020-10-03 07:57:00	DEBUG	StatisticsUtils	[ addStatistics ] STATISTICS_ACTION= ACTION_SHOW  obj= TinyCardEntity[baseId=0][title = Crushing Crunchy & Soft Things by Car! EXPERIMENT: Car vs Slime Piping Bags 2]
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ WidgetEventDispatcher ] onViewStatistics(), item:TinyCardEntity[baseId=0][title = Crushing Crunchy & Soft Things by Car! EXPERIMENT: Car vs Slime Piping Bags 2], additions: null, position = 2
+2020-10-03 07:57:00	DEBUG	WidgetEventDispatcher	[ dispatch ] VIEW{ itemData=TinyCardEntity[baseId=0][title = Crushing Crunchy & Soft Things by Car! EXPERIMENT: Car vs Slime Piping Bags 2], parameters=[	com.miui.video.framework.uri.LinkEntity@1adfa31
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@c34a516
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken UIEventDispatcher-video
+2020-10-03 07:57:00	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"english","st":"","_page":"RecommendVideoActivity","_miui":"V11","_ver":"2020042900(MiVideo-GROM)","_anoyid":"8635b58e-e970-4fbd-bb0b-9212bf51cf5e","_region":"ID","_res":"hd1080","_device":"merlin","target":"mv://YouTube?action\u003dplayVideo\u0026default\u003dmv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DvVXPW8GyeqU\u0026detail_id\u003dv1-ytb-166387918347315602\u0026mode\u003dmivideo\u0026path\u003dlocal\u0026back_scheme\u003dmv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026report\u003d{\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"166387918347315602\\\",\\\"playlist_id\\\":null,\\\"position\\\":6,\\\"exp\\\":\\\"v1\\\"}\"}\u0026source\u003dlocal_gallery\u0026ref\u003dLOCALRECOMM","_miuiver":"V11.0.2.0.QJOIDXM","ref":"com.miui.videoplayer","at":"1601686620798","_appver":"2020042930","_nettype":"1","_andver":"29","_model":"M2003J15SC","event":"VIEW","_plyver":"20190604","_ismiui":"1","_locale":"in_ID","_ts":"1601686620"}
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ LogMivideo ] VIEW{ itemData=TinyCardEntity[baseId=0][title = Tayo English Episodes l Who is the boss of the garage? l Tayo the Little Bus], parameters=[	com.miui.video.framework.uri.LinkEntity@bde97b5
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@afdee4a
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ LogMivideo ] Not report view event
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ WidgetEventDispatcher ] VIEW{ itemData=TinyCardEntity[baseId=0][title = PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak], parameters=[	com.miui.video.framework.uri.LinkEntity@3f531bb
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@62f56d8
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ LogMivideo ] VIEW{ itemData=TinyCardEntity[baseId=0][title = PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak], parameters=[	com.miui.video.framework.uri.LinkEntity@3f531bb
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@62f56d8
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ LogMivideo ] report view event
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ RecommendVideoActivity ] handleBack 
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken UIEventDispatcher-video
+2020-10-03 07:57:00	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"english","st":"","_page":"RecommendVideoActivity","_miui":"V11","_ver":"2020042900(MiVideo-GROM)","_anoyid":"8635b58e-e970-4fbd-bb0b-9212bf51cf5e","_region":"ID","_res":"hd1080","_device":"merlin","target":"mv://VideoShort?url\u003dentity%2Fv1-cms-92206192528594419\u0026path\u003dlocal\u0026back_scheme\u003dmv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026report\u003d{\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"92206192528594419\\\",\\\"playlist_id\\\":null,\\\"position\\\":5,\\\"exp\\\":\\\"v1\\\"}\"}\u0026source\u003dlocal_gallery\u0026ref\u003dLOCALRECOMM","_miuiver":"V11.0.2.0.QJOIDXM","ref":"com.miui.videoplayer","at":"1601686620806","_appver":"2020042930","_nettype":"1","_andver":"29","_model":"M2003J15SC","event":"VIEW","_plyver":"20190604","_ismiui":"1","_locale":"in_ID","_ts":"1601686620"}
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ LogMivideo ] VIEW{ itemData=TinyCardEntity[baseId=0][title = PRANK Orang Gila Ngamuk || Sampai Lari Kocar - kacir Ngakak], parameters=[	com.miui.video.framework.uri.LinkEntity@3f531bb
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@62f56d8
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ LogMivideo ] Not report view event
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ WidgetEventDispatcher ] VIEW{ itemData=TinyCardEntity[baseId=0][title = Crushing Crunchy & Soft Things by Car! EXPERIMENT: Car vs Slime Piping Bags 2], parameters=[	com.miui.video.framework.uri.LinkEntity@1adfa31
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@c34a516
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ LogMivideo ] VIEW{ itemData=TinyCardEntity[baseId=0][title = Crushing Crunchy & Soft Things by Car! EXPERIMENT: Car vs Slime Piping Bags 2], parameters=[	com.miui.video.framework.uri.LinkEntity@1adfa31
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@c34a516
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ LogMivideo ] report view event
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken UIEventDispatcher-video
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Paused com.miui.video.player.service.recommend.RecommendVideoActivity@38f4e0e
+2020-10-03 07:57:00	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ TrackerUtils ] trackBusiness : map = {"_language":"english","st":"","_page":"RecommendVideoActivity","_miui":"V11","_ver":"2020042900(MiVideo-GROM)","_anoyid":"8635b58e-e970-4fbd-bb0b-9212bf51cf5e","_region":"ID","_res":"hd1080","_device":"merlin","target":"mv://YouTube?action\u003dplayVideo\u0026default\u003dmv%3A%2F%2Fh5internal%3Furl%3Dhttps%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3Dpp6zCGX4nyo\u0026detail_id\u003dv1-ytb-159718530772767035\u0026mode\u003dmivideo\u0026path\u003dlocal\u0026back_scheme\u003dmv%3A%2F%2FMain%3Furl%3Dfeed%2Fop-home%26ref%3DLOCALRECOMM\u0026report\u003d{\"module\":\"local_diversion\",\"event\":\"local_diversion_card\",\"source\":\"\",\"append\":\"{\\\"is_From_gallery\\\":\\\"true\\\",\\\"item_id\\\":\\\"159718530772767035\\\",\\\"playlist_id\\\":null,\\\"position\\\":4,\\\"exp\\\":\\\"v1\\\"}\"}\u0026source\u003dlocal_gallery\u0026ref\u003dLOCALRECOMM","_miuiver":"V11.0.2.0.QJOIDXM","ref":"com.miui.videoplayer","at":"1601686620811","_appver":"2020042930","_nettype":"1","_andver":"29","_model":"M2003J15SC","event":"VIEW","_plyver":"20190604","_ismiui":"1","_locale":"in_ID","_ts":"1601686620"}
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ LogMivideo ] VIEW{ itemData=TinyCardEntity[baseId=0][title = Crushing Crunchy & Soft Things by Car! EXPERIMENT: Car vs Slime Piping Bags 2], parameters=[	com.miui.video.framework.uri.LinkEntity@1adfa31
+Uri=mv://LogMivideo?event=VIEW
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=VIEW
+getQueryParameterNames=[event]
+ref=null
+, 	com.miui.video.framework.uri.LinkEntity@c34a516
+Uri=mv://LogMivideo?event=CLICK
+getScheme=mv
+getHost=LogMivideo
+getPath=
+getQuery=event=CLICK
+getQueryParameterNames=[event]
+ref=null
+]}
+2020-10-03 07:57:00	DEBUG	com.miui.videoplayer	[ LogMivideo ] Not report view event
+2020-10-03 07:57:01	DEBUG	com.miui.videoplayer	[ FrameworkApplication ] onActivityStopped com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@8902293startedCount = 1
+2020-10-03 07:57:01	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Destroy com.miui.video.gallery.galleryvideo.FrameLocalPlayActivity@8902293
+2020-10-03 07:57:01	DEBUG	com.miui.videoplayer	[ FrameworkApplication ] onActivityStopped com.miui.video.player.service.recommend.RecommendVideoActivity@38f4e0estartedCount = 0
+2020-10-03 07:57:01	DEBUG	com.miui.videoplayer	[ FrameworkApplication ] App On Background
+2020-10-03 07:57:01	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on App Background : com.miui.video.player.service.recommend.RecommendVideoActivity@38f4e0e
+2020-10-03 07:57:01	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Activity Destroy com.miui.video.player.service.recommend.RecommendVideoActivity@38f4e0e
+2020-10-03 07:57:01	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] onOnlineActivityDestoryed com.miui.video.player.service.recommend.RecommendVideoActivity@38f4e0ecreatedCount = 0
+2020-10-03 07:57:01	DEBUG	com.miui.videoplayer	[ AppStatusStatisticsUtil ] on Process Exit : com.miui.video.player.service.recommend.RecommendVideoActivity@38f4e0e
+2020-10-03 07:57:01	DEBUG	com.miui.videoplayer	[ videocache:VideoCacheManager ] clearCache
+2020-10-03 07:57:01	INFO	com.miui.videoplayer	[ HttpProxyCacheServer ] Shutdown proxy server
+2020-10-03 07:57:01	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mLanguageInvalid: false
+2020-10-03 07:57:01	DEBUG	com.miui.videoplayer	[ TrackerUtils ] mSelectedLanguageString: 
+2020-10-03 07:57:01	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage size: 0
+2020-10-03 07:57:01	DEBUG	com.miui.videoplayer	[ TrackerUtils ] selectedLanguage(s): 
+2020-10-03 07:57:01	DEBUG	com.miui.videoplayer	[ VideoMiAccountManager ] start getServiceToken
+2020-10-03 07:57:01	DEBUG	com.miui.videoplayer	[ LOCK_REQUEST ] exeServiceToken threadpool-io-7
+2020-10-03 07:57:01	ERROR	com.miui.videoplayer	[ VideoMiAccountManager ] getAccount == null
+
